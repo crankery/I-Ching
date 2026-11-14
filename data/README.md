@@ -26,10 +26,16 @@ HF_HOME=.translation-cache .venv-translate/bin/python data/translate_zhouyi.py
 The first run downloads the model weights; later runs can use the local cache.
 The generated file keeps the Chinese, Japanese, and English for every name,
 judgment, image, line label, line text, and special passage. These translations
-are deliberately unedited machine output. Model details and licenses are at
+are unedited machine output except for a second decoding attempt when the
+Chinese→Japanese model repeats the same one or two tokens six times in a row.
+That retry uses the same model with a three-token repeat limit. Model details
+and licenses are at
 [Chinese→Japanese](https://huggingface.co/facebook/m2m100_418M)
 and [Japanese→English](https://huggingface.co/Helsinki-NLP/opus-mt-ja-en).
 
 `zhouyi_ja_en_broken.json` preserves the first, particularly absurd run. Its
 Chinese→Japanese model was independently reported as broken and fails its own
 published examples; see the [model discussion](https://huggingface.co/Helsinki-NLP/opus-mt-tc-big-zh-ja/discussions/4).
+
+See `translation-review.md` for passages with repeated English output to
+investigate later.

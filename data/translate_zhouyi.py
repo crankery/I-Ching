@@ -16,6 +16,19 @@ INPUT = HERE / "zhouyi_zh.json"
 OUTPUT = HERE / "zhouyi_ja_en.json"
 
 
+def has_short_token_loop(ids, pad_token_id):
+    """Spot a one- or two-token pattern repeated six times in a row."""
+    ids = ids.tolist()
+    while ids and ids[-1] == pad_token_id:
+        ids.pop()
+    for width in (1, 2):
+        for start in range(len(ids) - 6 * width + 1):
+            piece = ids[start : start + width]
+            if all(ids[start + i * width : start + (i + 1) * width] == piece for i in range(1, 6)):
+                return True
+    return False
+
+
 def translate_all(strings, model_name, device):
     print(f"Loading {model_name}", flush=True)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -31,13 +44,26 @@ def translate_all(strings, model_name, device):
         if "こんにちは" not in tokenizer.decode(answer[0], skip_special_tokens=True):
             raise RuntimeError("Chinese→Japanese model failed a simple smoke check")
     translated = {}
+    loop_retries = 0
     for start in range(0, len(strings), 8):
         batch = strings[start : start + 8]
         inputs = tokenizer(batch, return_tensors="pt", padding=True).to(device)
         with torch.inference_mode():
             tokens = model.generate(**inputs, **options)
-        translated.update(zip(batch, tokenizer.batch_decode(tokens, skip_special_tokens=True)))
+        decoded = tokenizer.batch_decode(tokens, skip_special_tokens=True)
+        if model_name == MODELS[0]:
+            for index, token_ids in enumerate(tokens):
+                if not has_short_token_loop(token_ids, tokenizer.pad_token_id):
+                    continue
+                retry_input = tokenizer([batch[index]], return_tensors="pt").to(device)
+                with torch.inference_mode():
+                    retry = model.generate(**retry_input, **options, no_repeat_ngram_size=3)
+                decoded[index] = tokenizer.decode(retry[0], skip_special_tokens=True)
+                loop_retries += 1
+        translated.update(zip(batch, decoded))
         print(f"{model_name}: {min(start + 8, len(strings))}/{len(strings)}", flush=True)
+    if loop_retries:
+        print(f"Retried {loop_retries} short token loops", flush=True)
     if model_name == MODELS[0]:
         # Short classical fragments occasionally decode to nothing. Give the
         # same Chinese→Japanese model a little context and try once more.
