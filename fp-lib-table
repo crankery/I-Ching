@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "I-Ching") (type "KiCad") (uri "${KIPRJMOD}/I-Ching.pretty") (options "") (descr ""))
+)
