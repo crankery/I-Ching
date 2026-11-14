@@ -1,0 +1,5920 @@
+{
+  "models": {
+    "zh_ja": "facebook/m2m100_418M",
+    "ja_en": "Helsinki-NLP/opus-mt-ja-en"
+  },
+  "hexagrams": [
+    {
+      "number": 1,
+      "name": {
+        "zh": "乾",
+        "ja": "乾",
+        "en": "Dry"
+      },
+      "judgment": {
+        "zh": "元亨。利貞。",
+        "ja": "レイヤー・レイヤー",
+        "en": "Layer Layer"
+      },
+      "image": {
+        "zh": "天行健，君子以自強不息。",
+        "ja": "天下(あめつち) 天下(あめつち) 天下(あめつち) 天下(あめつち)",
+        "en": "(Singing and singing) (Singing and singing) (Singing and singing)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "潛龍勿用。",
+            "ja": "ドラゴンは使わない。",
+            "en": "I don't use dragons."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "見龍在田，利見大人。",
+            "ja": "田で龍を見る、利見大人。",
+            "en": "I see dragons in Tata, and I'm an adult."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "君子終日乾乾，夕惕若；厲，无咎。",
+            "ja": "昼間は清潔で清潔で清潔で清潔で清潔である。",
+            "en": "Clean in the daytime, clean, clean, clean, clean and clean."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "或躍在淵，无咎。",
+            "ja": "あるいは無罪である。",
+            "en": "Or he's innocent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "飛龍在天，利見大人。",
+            "ja": "天下(あめつち)の天下(あめつち)の天下(あめつち)",
+            "en": "(Singing and singing) (Singing and singing)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "亢龍，有悔。",
+            "ja": "ドラゴン、悔い改め。",
+            "en": "Dragons, repent."
+          }
+        }
+      ],
+      "special": {
+        "label": {
+          "zh": "用九",
+          "ja": "9 用",
+          "en": "FOR THE 9 MINUTES"
+        },
+        "text": {
+          "zh": "見羣龍无首，吉。",
+          "ja": "龍無首、吉。",
+          "en": "Dragonless, Yoshikichi."
+        }
+      }
+    },
+    {
+      "number": 2,
+      "name": {
+        "zh": "坤",
+        "ja": "クン",
+        "en": "Kun."
+      },
+      "judgment": {
+        "zh": "元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
+        "ja": "イエス・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キ",
+        "en": "Jesus Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ"
+      },
+      "image": {
+        "zh": "地勢坤，君子以厚德載物。",
+        "ja": "地(ちち)は大(おおおおおおおおおおおおおお)",
+        "en": "The earth is full of your productions."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "履霜，堅冰至。",
+            "ja": "冷やし、冷やし。",
+            "en": "Cool, cool."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "直方大，不習无不利。",
+            "ja": "真っ直ぐ、学ぶことなく、悪くない。",
+            "en": "Straight ahead. It's not bad without learning."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "含章，可貞。或從王事，无成有終。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, sis, sis, sis, sis, pussies."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "括囊，无咎无譽。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "黃裳，元吉。",
+            "ja": "黄衣、元吉。",
+            "en": "Yellowcoats and ex-kiki."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "龍戰于野，其血玄黃。",
+            "ja": "龍は野で戦い、その血は黄色い。",
+            "en": "Dragons fight in the field and their blood is yellow."
+          }
+        }
+      ],
+      "special": {
+        "label": {
+          "zh": "用六",
+          "ja": "使用6",
+          "en": "Use 6"
+        },
+        "text": {
+          "zh": "利永貞。",
+          "ja": "レイヤー。",
+          "en": "Layer."
+        }
+      }
+    },
+    {
+      "number": 3,
+      "name": {
+        "zh": "屯",
+        "ja": "トン",
+        "en": "TONS"
+      },
+      "judgment": {
+        "zh": "元亨，利貞。勿用有攸往，利建侯。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "雲雷，屯；君子以經綸。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "磐桓，利居貞，利建侯。",
+            "ja": "イエス・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト",
+            "en": "Jesus Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "屯如邅如，乘馬班如，匪寇婚媾，女子貞不字，十年乃字。",
+            "ja": "男女(男女)と男女(男女)と女女女(男女)と女女女(男女)と女女女(男女)と女女女(男女)と女女女(男女)と女女女(男女)と女女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(男女)と女(",
+            "en": "Woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman, woman and woman and woman."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "即鹿无虞，惟入于林中，君子幾不如舍，往吝。",
+            "ja": "かれらは、森の中(あめつち)に住(す)む者(もの)と、森の中(あめつち)に住(す)む者(もの)である。",
+            "en": "(They dwell in the woods) and in the woods)."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "乘馬班如，求婚媾，往，吉无不利。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, sis, sis, sis, sis, pussies."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "屯其膏；小貞吉，大貞凶。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "乘馬班如，泣血漣如。",
+            "ja": "クルマのように、泣き血のように。",
+            "en": "Like a car, like a crying blood."
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": {
+        "zh": "蒙",
+        "ja": "モン",
+        "en": "Mong."
+      },
+      "judgment": {
+        "zh": "亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+        "ja": "「わたしはあなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛し、あなたがたを愛する。",
+        "en": "\"I love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you, love you and love you.\""
+      },
+      "image": {
+        "zh": "山下出泉，蒙；君子以果行育德。",
+        "ja": "山から降りて来て、山から降りて来た。",
+        "en": "He came down from the mountain and came down from the mountain."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "發蒙，利用刑人，用說桎梏，以往吝。",
+            "ja": "かれらはかれらを懲らしめ、かれらはかれらを懲らしめ、かれらはかれらを懲らしめ、かれらはかれらを懲らしめ、かれらはかれらを懲らしめる。",
+            "en": "They will punish them, and they will punish them, and they will punish them, and they will punish them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "包蒙吉，納婦吉，子克家。",
+            "ja": "モンジー、ナナジー、子クの家。",
+            "en": "The house of Monsie, Nassy, and Kok."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "勿用取女，見金夫，不有躬，无攸利。",
+            "ja": "女(しん)と女(しん)と女(しん)と女(しん)と女(しん)と女(しん)と女(しん)と女(しん)と女(しん)と",
+            "en": "(woman speaking native language) (woman speaking native language) (woman speaking native language) and woman speaking native language (woman speaking native language) and woman speaking native language (woman speaking native language) and woman speaking native language) and woman speaking native language (woman speaking native language) and woman speaking native language)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "困蒙，吝。",
+            "ja": "苦しみ、苦しみ。",
+            "en": "Suffering, suffering."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "童蒙，吉。",
+            "ja": "子供モン、ジー。",
+            "en": "The kids, the girls, the girls."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "擊蒙，不利為寇，利禦寇。",
+            "ja": "悪く、悪く、悪く、悪く。",
+            "en": "It's bad, it's bad, it's bad, it's bad, it's bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": {
+        "zh": "需",
+        "ja": "必要",
+        "en": "NEEDED"
+      },
+      "judgment": {
+        "zh": "有孚，光亨。貞吉，利涉大川。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "雲上於天，需；君子以飲食宴樂。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と",
+        "en": "(Beyond) and (beyond) and (beyond) and (beyond) and (beyond)."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "需于郊，利用恆，无咎。",
+            "ja": "無罪で、無罪で、無罪で、無罪で。",
+            "en": "Not guilty, not guilty, not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "需于沙，小有言，終吉。",
+            "ja": "砂、小さな言葉、終わり。",
+            "en": "Sand, small words, that's it."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "需于泥，致寇至。",
+            "ja": "泥を必要とし、ココに届く。",
+            "en": "We need dirt and we can reach here."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "需于血，出自穴。",
+            "ja": "血は、穴から出る。",
+            "en": "Blood comes out of the hole."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "需于酒食，貞吉。",
+            "ja": "酒を飲む必要がある、サンジー。",
+            "en": "You need to drink, Sanse."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "入于穴，有不速之客三人來，敬之終吉。",
+            "ja": "穴の中には、不快なゲストが3人来て、敬礼を終えました。",
+            "en": "Three uncomfortable guests came into the hole and finished their respect."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": {
+        "zh": "訟",
+        "ja": "訴訟",
+        "en": "The Case"
+      },
+      "judgment": {
+        "zh": "有孚，窒，惕，中吉，終凶。利見大人，不利涉大川。",
+        "ja": "(し)と(し)と(し)と(し)と(し)と(し)と(し)と(し)と(し)と(し)",
+        "en": "I'm going to start with the word \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\" \"s,\""
+      },
+      "image": {
+        "zh": "天與水違行，訟；君子以作事謀始。",
+        "ja": "天と水が流れ、天と水が流れ、天と水が流れる。",
+        "en": "Heaven and water flow, heaven and water flow, heaven and water flow."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "不永所事，小有言，終吉。",
+            "ja": "永遠のこと、小さいこと、永遠のこと。",
+            "en": "Eternal, small, and eternal."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "不克訟，歸而逋，其邑人三百戶无眚。",
+            "ja": "三百人(三百人)と三百人(三百人)と三百人(三百人)と三百人(三百人)と三百人(三百人)と三百人(三百人)と三百人。",
+            "en": "Three hundred and three hundred and three hundred and three hundred and three hundred and three hundred."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "食舊德，貞厲，終吉。或從王事，无成。",
+            "ja": "食べるか、食べるか、食べるか、食べるか、食べるか、食べるか。",
+            "en": "You can eat it, you can eat it, you can eat it, you can eat it, you can eat it, you can eat it, you can eat it, you can eat it, you can eat it."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "不克訟，復即命渝，安貞吉。",
+            "ja": "復活し、復活し、アナンジー。",
+            "en": "Resurrected, resurrected, and Annansey."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "訟，元吉。",
+            "ja": "訴え、元吉。",
+            "en": "Appeals, ex-kiki."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "或錫之鞶帶，終朝三褫之。",
+            "ja": "あるいは三日(三日)の夜(三日)の夜(三日)",
+            "en": "(Music) (Music ends) (Music ends) (Music ends) (Music ends) (Music ends) (Music ends)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": {
+        "zh": "師",
+        "ja": "マスター",
+        "en": "Master."
+      },
+      "judgment": {
+        "zh": "貞丈人吉，无咎。",
+        "ja": "主人公は無罪。",
+        "en": "The character is not guilty."
+      },
+      "image": {
+        "zh": "地中有水，師；君子以容民畜衆。",
+        "ja": "地上に水が流れ、地上に水が流れる。",
+        "en": "Water flows to the ground and water to the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "師出以律，否臧，凶。",
+            "ja": "教師は不義、不義、不義である。",
+            "en": "Teachers are unrighteous, unrighteous, and unrighteous."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "在師中吉，无咎；王三錫命。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "師或輿尸，凶。",
+            "ja": "教師、あるいは遺体。",
+            "en": "A teacher or a dead body."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "師左次，无咎。",
+            "ja": "左の先生、無罪です。",
+            "en": "The teacher on your left is not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, sis, sis, sis, sis, pussies."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "大君有命，開國承家，小人勿用。",
+            "ja": "大君は命を持ち、国を持ち、小人は役に立たない。",
+            "en": "O-kun has life, a country, and a dwarf is useless."
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": {
+        "zh": "比",
+        "ja": "より",
+        "en": "No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no."
+      },
+      "judgment": {
+        "zh": "吉。原筮元永貞，无咎。不寧方來，後夫凶。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "地上有水，比；先王以建萬國，親諸侯。",
+        "ja": "地上に水が流れ、主の御許に水が流れる。",
+        "en": "Water flows to the earth and water to the Lord."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "有孚，比之，无咎。有孚盈缶，終來有它，吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "比之自內，貞吉。",
+            "ja": "内側より、サンジー。",
+            "en": "More than the inside, Sunsy."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "比之匪人。",
+            "ja": "泥棒より。",
+            "en": "It's better to be a thief than a thief."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "外比之，貞吉。",
+            "ja": "別に、サンジー。",
+            "en": "Nothing, Sonsy."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "顯比。王用三敺，失前禽，邑人不誡，吉。",
+            "ja": "王は三を用いて、先の鳥を失い、は人々と比べない。",
+            "en": "The king uses three to lose the bird ahead, or he doesn't compare with the people."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "比之无首，凶。",
+            "ja": "悪くない、悪くない。",
+            "en": "It's not bad. It's not bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": {
+        "zh": "小畜",
+        "ja": "小動物",
+        "en": "Small Animals"
+      },
+      "judgment": {
+        "zh": "亨。密雲不雨，自我西郊。",
+        "ja": "雨が降らない、西側。",
+        "en": "It doesn't rain, west."
+      },
+      "image": {
+        "zh": "風行天上，小畜，君子以懿文德。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(Beyond the heavens and below the earth)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "復自道，何其咎，吉。",
+            "ja": "帰り道、何のせいか、吉。",
+            "en": "On my way home, I'm sorry about what happened, Yoshimi."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "牽復，吉。",
+            "ja": "引っ張り、吉。",
+            "en": "I'm glad to see you."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "車說輹，夫妻反目。",
+            "ja": "クルマは、夫婦は反対。",
+            "en": "Cars don't agree with couples."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "有孚，血去惕出，无咎。",
+            "ja": "血が流れ、無罪。",
+            "en": "Blood flow, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "有孚攣如，富以其鄰。",
+            "ja": "豊かで豊かで豊かである。",
+            "en": "It's rich, it's rich, it's rich, it's rich."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "既雨既處，尚得載，婦貞厲，月幾望，君子征凶。",
+            "ja": "雨が降り、月が降り、月が降り、月が降り、月が降り、月が降る。",
+            "en": "It rains, the moon falls, the moon falls, the moon falls, the moon falls, the moon falls."
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": {
+        "zh": "履",
+        "ja": "イイ",
+        "en": "Okay."
+      },
+      "judgment": {
+        "zh": "履虎尾，不咥人，亨。",
+        "ja": "ひきこもり、ひきこもり、ひきこもり。",
+        "en": "I don't know. I don't know. I don't know. I don't know."
+      },
+      "image": {
+        "zh": "上天下澤，履；君子以辨上下，定民志。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と",
+        "en": "(Beyond) and (beyond) and (beyond) and (beyond) and (beyond)."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "素履，往无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "履道坦坦，幽人貞吉。",
+            "ja": "ふるさとふるさとふるさとふるさ",
+            "en": "He acts like he's acting like he's acting like he's acting like he's acting like he's acting like he's acting like he's acting like he's acting like he's acting like he's doing what he's doing."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "眇能視，跛能履，履虎尾，咥人，凶。武人為于大君。",
+            "ja": "見(み)て見(み)て見(み)て見(み)て見(み)て見(み)て見(み)て",
+            "en": "(You look at it, you look at it, you look at it, you look at it, you look at it.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "履虎尾，愬愬終吉。",
+            "ja": "尾、終吉。",
+            "en": "It's my tail. It's my last kiss."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "夬履，貞厲。",
+            "ja": "この言葉は、、誠実・・・。",
+            "en": "This word is true."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "視履考詳，其旋元吉。",
+            "ja": "見て見て見て見て見て見て",
+            "en": "Look, look, look, look."
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": {
+        "zh": "泰",
+        "ja": "タイ",
+        "en": "Thailand"
+      },
+      "judgment": {
+        "zh": "小往大來，吉亨。",
+        "ja": "小さなところへ、ジハン。",
+        "en": "Go to a small place, Zhihan."
+      },
+      "image": {
+        "zh": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+        "ja": "天地(あめつち)は、天地(あめつち)は、天地(あめつち)は、天地(あめつち)は、天地(あめつち)は、天地(あめつち)は、",
+        "en": "The heavens and the earth, the earth and the earth, the heavens and the earth, the heavens and the earth, the heavens and the earth, the heavens and the earth, the heavens and the earth."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "拔茅茹以其彙，征吉。",
+            "ja": "かれらはかれらの言葉に従い、かれらはかれらに従い、かれらはかれらに従う。",
+            "en": "They follow what they say, and they obey them, and they follow them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "包荒。用馮河，不遐遺；朋亡。得尚于中行。",
+            "ja": "流れは流れ、流れは流れ、流れは流れ。",
+            "en": "The flow flows, the flow flows, the flow flows."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+            "ja": "慈悲深き御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方、慈悲深い御方。",
+            "en": "The All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful, the All-merciful."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "翩翩，不富以其鄰；不戒以孚。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "帝乙歸妹，以祉，元吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "城復于隍，勿用師，自邑告命，貞吝。",
+            "ja": "町(あめつち)は町(あめつち)で、町(あめつち)は町(あめつち)で、町(あめつち)は町(あめつち)で",
+            "en": "It's a town, it's a town, it's a town, it's a town, it's a town, it's a town, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city, it's a city,"
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": {
+        "zh": "否",
+        "ja": "ノー",
+        "en": "No."
+      },
+      "judgment": {
+        "zh": "否之匪人，不利君子貞，大往小來。",
+        "ja": "いやいやいやいやいやいやいやいやいやいやいや",
+        "en": "No, no, no, no, no, no, no, no, no, no, no, no, no, no."
+      },
+      "image": {
+        "zh": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+        "ja": "天地(あめつち)は天地(あめつち)にあり、天地(あめつち)は天地(あめつち)にあり、天地(あめつち)は天地(あめつち)にあり。",
+        "en": "(The heavens and the earth are in heaven) The heavens and the earth are in heaven, and the earth is in heaven and the earth are in heaven."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "拔茅茹以其彙，貞吉。亨。",
+            "ja": "主の御言葉に従い、主の御言葉に従い。",
+            "en": "Follow the word of the Lord and follow the word of the Lord."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "包承，小人吉，大人否。亨。",
+            "ja": "小さな人よ、大人よ。",
+            "en": "Little man, he's an adult."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "包羞。",
+            "ja": "恥ずかしい。",
+            "en": "It's embarrassing."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "有命，无咎，疇離祉。",
+            "ja": "無罪、無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "休否，大人吉。其亡其亡，繫于包桑。",
+            "ja": "かれらは死に至るか、かれらは死に至るか。",
+            "en": "Either they die, or they die."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "傾否，先否後喜。",
+            "ja": "喜び(喜び)と喜び(喜び)を先に",
+            "en": "(Jourg) (Jourg and Joy)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": {
+        "zh": "同人",
+        "ja": "同人",
+        "en": "Same person."
+      },
+      "judgment": {
+        "zh": "同人于野，亨。利涉大川，利君子貞。",
+        "ja": "人間と共に野で、ヘン・リーは大川、リ君子貞。",
+        "en": "With humans in the wild, Hen Lee in the Ogawa and Lisako."
+      },
+      "image": {
+        "zh": "天與火，同人；君子以類族辨物。",
+        "ja": "天と火は人と共に、人と共に、人と共に。",
+        "en": "Heaven and fire are with men, with men, with men."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "同人于門，無咎。",
+            "ja": "入り口にいる人は無罪。",
+            "en": "The person at the door is not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "同人于宗，吝。",
+            "ja": "人間(にんげん)と共(にんげん)",
+            "en": "(Singing along with human beings)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "伏戎于莽，升其高陵，三歲不興。",
+            "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)の三つ。",
+            "en": "Three of them are: (beyond heaven) and (beyond heaven) and (beyond heaven) and (beyond heaven)."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "乘其庸，弗克攻，吉。",
+            "ja": "つぶやき、つぶやき、ジー。",
+            "en": "Murmuring, muttering, muttering, and Zy."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "同人，先號啕而後笑。大師克相遇。",
+            "ja": "主人公と一緒に笑いながら、マスター・クルーに会った。",
+            "en": "laughing with the character, I met the master crew."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "同人于郊，無悔。",
+            "ja": "人と共に、悔い改めない。",
+            "en": "I don't repent with people."
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": {
+        "zh": "大有",
+        "ja": "大有",
+        "en": "Great."
+      },
+      "judgment": {
+        "zh": "元亨。",
+        "ja": "元ハン。",
+        "en": "Ex-han."
+      },
+      "image": {
+        "zh": "火在天上，大有；君子以遏惡揚善，順天休命。",
+        "ja": "天下(あめつち)の火(あめつち)は天下(あめつち)の火(あめつち)の火(あめつち)の火(あめつち)の火(あめつち)である。",
+        "en": "(The fire in the sky is the fire in the sky.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "无交害，匪咎，艱則无咎。",
+            "ja": "無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "大轝以載，有攸往，无咎。",
+            "ja": "主人公は無罪、無罪である。",
+            "en": "The character is \"not guilty\" or \"not guilty.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "公用亨于天子，小人弗克。",
+            "ja": "公用ヘンは天に、小さなフェルク。",
+            "en": "Public Hens are in heaven, little Felk."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "匪其尫，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "厥孚交如，威如；吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "自天佑之，吉无不利。",
+            "ja": "アッラーの御恵みは悪くない。",
+            "en": "God's blessing is not bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": {
+        "zh": "謙",
+        "ja": "謙虚",
+        "en": "HUMILITY"
+      },
+      "judgment": {
+        "zh": "亨，君子有終。",
+        "ja": "ハン、君は終わった。",
+        "en": "Han, you're done."
+      },
+      "image": {
+        "zh": "地中有山，謙；君子以裒多益寡，稱物平施。",
+        "ja": "地上に山が流れ、地上に山が流れ、地上に山が流れる。",
+        "en": "Mountains flow on the ground, mountains flow on the ground, mountains flow on the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "謙謙君子，用涉大川，吉。",
+            "ja": "謙虚な君よ、大川に関して、吉。",
+            "en": "You humble boy, with regard to the Ogawa, Yoshikichi."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "鳴謙，貞吉。",
+            "ja": "この言葉は音謙、サジー・・・。",
+            "en": "This word sounds like a bow."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "勞謙君子，有終吉。",
+            "ja": "ラムミンさん、終わりです。",
+            "en": "Mr. Rammin, it's over."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "无不利，撝謙。",
+            "ja": "悪くない、謙虚である。",
+            "en": "Not bad, but humble."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "不富，以其鄰，利用侵伐，无不利。",
+            "ja": "豊かで、近所で、侵害を利用して、悪くない。",
+            "en": "It's rich, and it's not bad to use invasions in your neighborhood."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "鳴謙，利用行師，征邑國。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors."
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": {
+        "zh": "豫",
+        "ja": "躊躇",
+        "en": "Hold back."
+      },
+      "judgment": {
+        "zh": "利建侯行師。",
+        "ja": "リビア・ハウス。",
+        "en": "Libyan House."
+      },
+      "image": {
+        "zh": "雷出地奮，豫。先王以作樂崇德，殷薦之上帝，以配祖考。",
+        "ja": "アッラーの御許しを守り、アッラーの御許しを守り、アッラーの御許しを守る。",
+        "en": "and observe God's will, and observe God's will, and keep God's will."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "鳴豫，凶。",
+            "ja": "躊躇して、ひどい。",
+            "en": "Don't hesitate. It's terrible."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "介于石，不終日，貞吉。",
+            "ja": "石の間で、一日中、サンジー。",
+            "en": "Between the stones, all day long, Sunsy."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "盱豫，悔。遲有悔。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "由豫，大有得。勿疑。朋盍戠。",
+            "ja": "うん、うん、うん、うん、うん、うん、うん。",
+            "en": "Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "貞疾，恆不死。",
+            "ja": "死ぬことなく、死ぬことなく。",
+            "en": "Without dying, without dying."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "冥豫，成有渝，无咎。",
+            "ja": "無罪、無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": {
+        "zh": "隨",
+        "ja": "連続",
+        "en": "Line"
+      },
+      "judgment": {
+        "zh": "元亨。利貞。无咎。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u~)"
+      },
+      "image": {
+        "zh": "澤中有雷，隨；君子以嚮晦入宴息。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "官有渝，貞吉。出門交有功。",
+            "ja": "こんにちはこんにちはこんにちはこんにちは",
+            "en": "Hello. Hello."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "係小子，失丈夫。",
+            "ja": "男の子、夫を失う。",
+            "en": "The boy loses his husband."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "係丈夫，失小子。隨，有求得利，居貞。",
+            "ja": "配偶者、配偶者、配偶者、配偶者、配偶者、配偶者、配偶者。",
+            "en": "Your spouse, your spouse, your spouse, your spouse, your spouse, your spouse, your spouse, your spouse."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "隨有獲，貞凶。有孚在道，以明，何咎。",
+            "ja": "かれらは真理を明らかにし、真理を明らかにし、真理を明らかにする。",
+            "en": "They reveal the truth, they reveal the truth, they reveal the truth."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "孚于嘉，吉。",
+            "ja": "☆☆☆☆☆☆☆☆☆☆☆☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "拘係之，乃從維之。王用亨于西山。",
+            "ja": "天下(あめつち)は天下(あめつち)の天下(あめつち)の天下(あめつち)である。",
+            "en": "(Singing) is the heaven of heaven."
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": {
+        "zh": "蠱",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "元亨。利涉大川。先甲三日，後甲三日。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "山下有風，蠱；君子以振民育德。",
+        "ja": "山の下に風が吹き、君は民を育てた。",
+        "en": "A wind blew beneath the mountain, and you raised your people."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "幹父之蠱，有子考，无咎，厲終吉。",
+            "ja": "父(ちち)と子(ちち)の間(あいだ)に生(あいだ)る。",
+            "en": "(It's between father and son)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "幹母之蠱，不可貞。",
+            "ja": "母親は不信心である。",
+            "en": "The mother is an unbeliever."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "幹父之蠱，小有悔，无大咎。",
+            "ja": "父(ちち)の罪(あめつち)は罪(あめつち)の罪(あめつち)である。",
+            "en": "The sin of the father is the sin of sin."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "裕父之蠱，往見吝。",
+            "ja": "御父(みこころ)の御父(みこころ)の御父(みこころ)の御父(みこころ)",
+            "en": "The Father of the Father is here."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "幹父之蠱，用譽。",
+            "ja": "親父の名誉。",
+            "en": "My father's honor."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "不事王侯，高尚其事。",
+            "ja": "いやいやいやいやいやいや。",
+            "en": "No, no, no, no, no, no, no."
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": {
+        "zh": "臨",
+        "ja": "来る",
+        "en": "He's coming."
+      },
+      "judgment": {
+        "zh": "元亨。利貞。至于八月有凶。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "澤上有地，臨；君子以教思无窮，容保民无疆。",
+        "ja": "地上に住む人々は、地上に住む人々、地上に住む人々、地上に住む人々、地上に住む人々、地上に住む人々。",
+        "en": "The people who live on earth, the people who live on it, the people who live on it, the people who live on it, the people who live on it, the people who live on it."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "咸臨，貞吉。",
+            "ja": "こんにちは、こんにちは。",
+            "en": "Hello, hello."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "咸臨，吉无不利。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "甘臨，无攸利。既憂之，无咎。",
+            "ja": "無罪、無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "至臨，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "知臨，大君之宜，吉。",
+            "ja": "知るよ、大君よ、ジー。",
+            "en": "I know, Oji."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "敦臨，吉无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": {
+        "zh": "觀",
+        "ja": "見る",
+        "en": "See."
+      },
+      "judgment": {
+        "zh": "盥而不薦，有孚顒若。",
+        "ja": "いやいやいやいやいやいや。",
+        "en": "No, no, no, no, no, no, no."
+      },
+      "image": {
+        "zh": "風行地上，觀；先王以省方，觀民設教。",
+        "ja": "主は地上に住み、主は地上に住み、主は地上に住む。",
+        "en": "The Lord dwells on the earth, the Lord dwells on the earth, and the Lord dwells on the earth."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "童觀，小人无咎，君子吝。",
+            "ja": "小さな男は無罪、男は無罪。",
+            "en": "The little man is innocent, the man is innocent."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "窺觀，利女貞。",
+            "ja": "見(み)て見(み)て見(み)て",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "觀我生，進退。",
+            "ja": "振り返って、振り返って。",
+            "en": "Turn around, turn around."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "觀國之光，利用賓于王。",
+            "ja": "国の光を観察し、王に客を利用する。",
+            "en": "We observe the light of the country and use our guests to the king."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "觀我生，君子无咎。",
+            "ja": "見て、男は無罪。",
+            "en": "Look, the man is innocent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "觀其生，君子无咎。",
+            "ja": "見て、男は無罪。",
+            "en": "Look, the man is innocent."
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": {
+        "zh": "噬嗑",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "亨。利用獄。",
+        "ja": "ハンは刑務所を利用する。",
+        "en": "Han uses prison."
+      },
+      "image": {
+        "zh": "雷電噬嗑；先王以明罰敕法。",
+        "ja": "天下(あめつち)は天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)である。",
+        "en": "(Impressions under the heavens)."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "屨校滅趾，无咎。",
+            "ja": "学校の指が壊れ、無罪。",
+            "en": "The school's fingers are broken and she's not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "噬膚滅鼻，无咎。",
+            "ja": "皮膚が消え、無罪です。",
+            "en": "If the skin goes out, you're not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "噬昔肉，遇毒；小吝，无咎。",
+            "ja": "肉を焼き尽くし、肉を焼き尽くす。",
+            "en": "Burn the meat and burn it."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "噬乾胏，得金矢，利艱貞，吉。",
+            "ja": "☆☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "噬乾肉，得黃金，貞厲，无咎。",
+            "ja": "乾肉、金、礼儀正しく、無罪。",
+            "en": "Dry meat, gold, politeness, and innocence."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "何校滅耳，凶。",
+            "ja": "学校の耳が壊れ、残酷。",
+            "en": "The school's ears are broken and it's cruel."
+          }
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": {
+        "zh": "賁",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "亨。小利有攸往。",
+        "ja": "☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "山下有火，賁；君子以明庶政，无敢折獄。",
+        "ja": "地上に火があり、地上に火があり、地上に火があり、地上に火がある。",
+        "en": "There is fire on the earth, there is fire on the earth, there is fire on the earth, there is fire on the earth, and there is fire on the earth."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "賁其趾，舍車而徒。",
+            "ja": "指を伸ばし、車を引っ張る。",
+            "en": "Reach out your fingers and pull the car."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "賁其須。",
+            "ja": "は必要です。",
+            "en": "It's necessary."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "賁如濡如，永貞吉。",
+            "ja": "まるで濡れたかのように、永貞吉。",
+            "en": "It's as if we were wet, Shikichi."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "賁如皤如，白馬翰如，匪寇婚媾。",
+            "ja": "のように、白マハムのように、バンコクと結婚する。",
+            "en": "Like, like White Maham, I marry Bangkok."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "賁於丘園，束帛戔戔，吝，終吉。",
+            "ja": "山と山と山と山と山と山と山と",
+            "en": "The mountains and the mountains and the mountains and the mountains and the mountains and the mountains."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "白賁，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": {
+        "zh": "剝",
+        "ja": "排除",
+        "en": "Exclude"
+      },
+      "judgment": {
+        "zh": "不利。有攸往。",
+        "ja": "うまくいかない! うまくいかない。",
+        "en": "It doesn't work!"
+      },
+      "image": {
+        "zh": "山附地上，剝；上以厚下，安宅。",
+        "ja": "地上に登り、地上に登り、地上に登る。",
+        "en": "To climb to the ground, to climb to the ground, to climb to the ground, and to climb to the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "剝牀以足，蔑貞凶。",
+            "ja": "偽りと偽りである。",
+            "en": "It's a lie and a lie."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "剝牀以辨，蔑貞凶。",
+            "ja": "罪を犯し、罪を犯す。",
+            "en": "You're guilty, you're guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "剝之，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "剝牀以膚，凶。",
+            "ja": "ひきこもり、ひきこもり。",
+            "en": "I don't know. I don't know. I don't know."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "貫魚，以宮人寵，无不利。",
+            "ja": "釣り(釣り)は、釣り(釣り)は、釣り(釣り)は、",
+            "en": "(fishing) (fishing) (fishing) (fishing, fishing)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "碩果不食，君子德車，小人剝廬。",
+            "ja": "小さな人、小さな人、小さな人、小さな人。",
+            "en": "Small people, small people, small people, little people."
+          }
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name": {
+        "zh": "復",
+        "ja": "復活",
+        "en": "RESURRECTION"
+      },
+      "judgment": {
+        "zh": "亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+        "ja": "七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に、七日(ひとり)の間(あいだ)に。",
+        "en": "(Seven days per day) (Seven days per day, seven days per day) between seven days, seven days between seven days, seven days per day) and seven days between seven days.)"
+      },
+      "image": {
+        "zh": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+        "ja": "天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)",
+        "en": "(The heavens above the heavens are higher than the earth.) (The heavens below are higher than the earth.) (The heavens below are higher than the earth.) (The heavens below are higher than the earth.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "不遠復，无祇悔，元吉。",
+            "ja": "悔い改めない、悔い改めない。",
+            "en": "Unrepentant, unrepentant."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "休復，吉。",
+            "ja": "リラックスして、吉。",
+            "en": "Relax, I'm glad you're here."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "頻復，厲无咎。",
+            "ja": "しばしば、無罪である。",
+            "en": "He's often innocent."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "中行獨復。",
+            "ja": "中間自復。",
+            "en": "Resurrected mid-life."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "敦復，无悔。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "迷復，凶，有災眚。用行師，終有大敗，以其國君，凶；至于十年，不克征。",
+            "ja": "かれらは罪を犯し、罪を犯し、罪を犯し、罪を犯し、罪を犯し、罪を犯す。",
+            "en": "They sin, they sin, they sin, they sin, they sin, they sin, they sin, they sin, they sin, they sin."
+          }
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name": {
+        "zh": "无妄",
+        "ja": "偽り",
+        "en": "Falsehood"
+      },
+      "judgment": {
+        "zh": "元亨。利貞。其匪正有眚，不利有攸往。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "天下雷行，物與无妄；先王以茂對時，育萬物。",
+        "ja": "天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)と天(てん)",
+        "en": "(Singing) and (singing) and (singing) and (singinging) and (singing) and (singinging) and (singing) and (singing) and (singing) and (singing) and (singing) and (singinging) and (singings) and (singings) and (singings) and (singings) and (singingings) and (singings) and (sings) and (s"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "无妄，往吉。",
+            "ja": "☆☆☆☆☆☆☆☆☆☆☆☆☆☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "不耕穫，不菑畬，則利有攸往。",
+            "ja": "収穫も、収穫も、収穫もない。",
+            "en": "There's no harvest, no harvest, no harvest."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "无妄之災，或繫之牛，行人之得，邑人之災。",
+            "ja": "人間(にんげん)や人間(にんげん)や人間(にんげん)や人間(にんげん)や人間(にんげん)など、",
+            "en": "(Laughter) (Applause) (Applause) (Applause)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "可貞，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "无妄之疾，勿藥有喜。",
+            "ja": "うつ病(うつ病)は、うつ病(うつ病)でない。",
+            "en": "Depression is not depression."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "无妄，行有眚，无攸利。",
+            "ja": "偽りもないし、偽りもない。",
+            "en": "There's no lies, and there's no lies."
+          }
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name": {
+        "zh": "大畜",
+        "ja": "大動物",
+        "en": "Big Animals"
+      },
+      "judgment": {
+        "zh": "利貞，不家食吉，利涉大川。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+        "ja": "天地(あめつち)は山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)です。",
+        "en": "This is the mountain of the mountain."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "有厲利已。",
+            "ja": "強い利点がある。",
+            "en": "There are strong advantages."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "輿說輹。",
+            "ja": "を語る。",
+            "en": ".."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "良馬逐，利艱貞，吉。日閑輿衛，利有攸往。",
+            "ja": "善(よ)く、善(よ)く、善(よ)く、善(よ)く、善(よ)く、善(よ)く",
+            "en": "(good luck, good luck) (good luck, good luck) (good luck, good luck, good luck) (good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good luck, good heart, good heart, good heart"
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "童牛之告，元吉。",
+            "ja": "牛の告発、元吉。",
+            "en": "Cow charges, ex-kiki."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "豶豕之牙，吉。",
+            "ja": "歯は、吉。",
+            "en": "Your teeth are too good to be true."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "何天之衢，亨。",
+            "ja": "何日か、ハン。",
+            "en": "Some days, Han."
+          }
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "name": {
+        "zh": "頤",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "貞吉。觀頤，自求口實。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "山下有雷，頤；君子以慎言語，節飲食。",
+        "ja": "山(あいだ)と山(あいだ)と山(あいだ)と山(あいだ)と山(あいだ)と",
+        "en": "(Singing) (Singing in the mountain) (Singing in the mountain) (Singing in the mountain) (Singing in the mountain)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "舍爾靈龜，觀我朵頤，凶。",
+            "ja": "わたしを見つめ、わたしを見つめなさい。",
+            "en": "Look at me, look at me."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "顛頤，拂經，于丘頤，征凶。",
+            "ja": "、、、、、、。",
+            "en": "Hey, hey, hey."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "拂頤，貞凶，十年勿用，无攸利。",
+            "ja": "十歳、十歳、十歳、十歳、十歳、十歳、十歳、十歳、十歳。",
+            "en": "Ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten, ten."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "顛頤吉，虎視眈眈，其欲逐逐，无咎。",
+            "ja": "欲しがり、欲しがり、欲しがり。",
+            "en": "They want, they want, they want."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "拂經，居貞吉，不可涉大川。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "由頤，厲吉，利涉大川。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "name": {
+        "zh": "大過",
+        "ja": "大きすぎる",
+        "en": "It's too big."
+      },
+      "judgment": {
+        "zh": "棟橈，利有攸往，亨。",
+        "ja": "こんにちはこんにちはこんにちは。",
+        "en": "Hello. Hello."
+      },
+      "image": {
+        "zh": "澤滅木，大過。君子以獨立不懼，遯世无悶。",
+        "ja": "天下(あめつち)は天下(あめつち)は天下(あめつち)は天下(あめつち)は天下(あめつち)は天下(あめつち)は天下(あめつち)は天下(あめつち)です。",
+        "en": "(The heavens are higher than the earth.) (The heavens are higher than the earth.) (The heavens are higher than the earth.) (The heavens are higher than the earth.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "藉用白茅，无咎。",
+            "ja": "無罪で無罪で無罪である。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "枯楊生稊，老夫得其女妻，无不利。",
+            "ja": "夫(妻)は、妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)の妻(妻)である。",
+            "en": "The wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of the wife of"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "棟橈，凶。",
+            "ja": "この言葉は、、・・・。",
+            "en": "This word, it's..."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "棟隆，吉。有它吝。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "枯楊生華，老婦得其士夫，无咎无譽。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors, lemurs, lemurs."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "過涉滅頂，凶，无咎。",
+            "ja": "無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "name": {
+        "zh": "坎",
+        "ja": "カン",
+        "en": "Kan."
+      },
+      "judgment": {
+        "zh": "習坎，有孚，維心亨。行有尚。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "水洊至，習坎；君子以常德行，習教事。",
+        "ja": "水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)を水(みず)に水(みず)",
+        "en": "(No water, no water, no water) (No water, no water, no water) (No water, no water) (No water, no water)) (No water, no water) (No water, no water)) (No water, no water, no water))) (No water, no water.) (No water, no water, no water.)) (No water, no water, no water.)) (No water, no water.) (No water, no water, no water.)) (No water, no water, no water, no water"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "習坎，入于坎窞，凶。",
+            "ja": "シカン、カンガルーに入り、残虐です。",
+            "en": "It's cruel to be in a deer, a kangaroo."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "坎有險，求小得。",
+            "ja": "危険だよ、小さい。",
+            "en": "It's dangerous, little one."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "來之坎坎，險且枕，入于坎窞，勿用。",
+            "ja": "カンカン、危険と枕、カンカンに入って、役に立たない。",
+            "en": "It's useless to go into cans, danger and pillows, cans and cans."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "尊酒簋，貳用缶。内約自牖，終无咎。",
+            "ja": "酒を飲んだり、酒を飲んだり、酒を飲んだり、酒を飲んだり、酒を飲んだり。",
+            "en": "Drinking, drinking, drinking, drinking, drinking, drinking, drinking."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "坎不盈，禔既平，无咎。",
+            "ja": "無邪気、無邪気、無邪気。",
+            "en": "Innocent, innocent, innocent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "係用徽纆，寘于叢棘，三歲不得，凶。",
+            "ja": "〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕 〔3〕",
+            "en": "3 three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three three."
+          }
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "name": {
+        "zh": "離",
+        "ja": "離れ",
+        "en": "Clear."
+      },
+      "judgment": {
+        "zh": "利貞。亨。畜牝牛，吉。",
+        "ja": "こんにちは! こんにちは! こんにちは! こんにちは! こんにちは!",
+        "en": "Hello, hello, hello, hello!"
+      },
+      "image": {
+        "zh": "明兩作離，大人以繼明照于四方。",
+        "ja": "二つに分離し、大人は四つに相続する。",
+        "en": "Separate them in two, and adults inherit into four."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "履錯然，敬之无咎。",
+            "ja": "間違って、無罪です。",
+            "en": "Wrong. Not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "黃離，元吉。",
+            "ja": "黄離れ、元吉。",
+            "en": "I'm sorry, I'm sorry, I'm sorry."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+            "ja": "昼間は歌いながら歌いながら歌いながら歌いながら歌いながら歌う。",
+            "en": "I sing during the day and sing while singing while singing while singing while singing during the day."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "突如其來如，焚如，死如，棄如。",
+            "ja": "燃え尽きるように、死ぬように、消えるように。",
+            "en": "To burn up, to die, to disappear."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "出涕沱若，戚嗟若，吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "王用出征，有嘉折首，獲匪其醜，无咎。",
+            "ja": "王様は、ひきこもりと、ひきこもりと、ひきこもりと、ひきこもりと。",
+            "en": "The king is in a hurry, in a hurry, in a hurry, in a hurry, in a hurry."
+          }
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "name": {
+        "zh": "咸",
+        "ja": "塩",
+        "en": "Salt"
+      },
+      "judgment": {
+        "zh": "亨。利貞。取女吉。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u~)"
+      },
+      "image": {
+        "zh": "山上有澤，咸；君子以虛受人。",
+        "ja": "山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と",
+        "en": "(Singing) (Singing) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "咸其拇。",
+            "ja": "手のひら。",
+            "en": "The palm of your hand."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "咸其腓，凶，居吉。",
+            "ja": "こんにちは! こんにちは!",
+            "en": "Hello, hello!"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "咸其股，執其隨，往吝。",
+            "ja": "かれらはかれらを滅ぼし、かれらを滅ぼし、かれらを滅ぼす。",
+            "en": "They will destroy them, and destroy them, and destroy them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "貞吉悔亡，憧憧往來，朋從爾思。",
+            "ja": "悔い改め、悔い改め、悔い改め、悔い改め",
+            "en": "Repent, repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "咸其脢，无悔。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "咸其輔，頰，舌。",
+            "ja": "舌、口、口、口。",
+            "en": "Your tongue, your mouth, your mouth, your mouth."
+          }
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "name": {
+        "zh": "恆",
+        "ja": "ストーン",
+        "en": "Stone."
+      },
+      "judgment": {
+        "zh": "亨，无咎。利貞，利有攸往。",
+        "ja": "こんにちは! こんにちは! こんにちは!",
+        "en": "Hello, hello, hello!"
+      },
+      "image": {
+        "zh": "雷風，恆；君子以立不易方。",
+        "ja": "天下(あめつち) 天下(あめつち) 天下(あめつち) 天下(あめつち) 天下(あめつち)",
+        "en": "(Singing below) (Singing below) (Singing below)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "浚恆，貞凶，无攸利。",
+            "ja": "慈悲深く、慈悲深く、慈悲深く。",
+            "en": "Merciful, merciful, merciful."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "悔亡。",
+            "ja": "悔い改め。",
+            "en": "Repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "不恆其德，或承之羞，貞吝。",
+            "ja": "恥ずかしがり、恥ずかしがり。",
+            "en": "I'm ashamed. I'm ashamed."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "田无禽。",
+            "ja": "田は鳥。",
+            "en": "Taga is a bird."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "恆其德，貞，婦人吉，夫子凶。",
+            "ja": "主人公、主人公、主人公。",
+            "en": "Heroes, heroes, heroes."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "震恆，凶。",
+            "ja": "ひどい、ひどい。",
+            "en": "It's terrible, it's bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "name": {
+        "zh": "遯",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "亨。小利貞。",
+        "ja": "ハン・リヴァー。",
+        "en": "Han River."
+      },
+      "image": {
+        "zh": "天下有山，遯；君子以遠小人，不惡而嚴。",
+        "ja": "天下(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)の山(あめつち)",
+        "en": "(Singing) (Singing) The mountain of the mountain of the mountains (Singing)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "遯尾，厲，勿用有攸往。",
+            "ja": "ひきこもり、ひきこもり、ひきこもり、ひきこもり。",
+            "en": "I don't know. I don't know. I don't know. I don't know."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "執之用黃牛之革，莫之勝說。",
+            "ja": "黄牛のを用いて、勝てない。",
+            "en": "I can't win by using a yellow cow."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "係遯，有疾厲，畜臣妾吉。",
+            "ja": "主人公、主人公、主人公、主人公、主人公。",
+            "en": "The characters, the characters, the characters, the characters, the characters."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "好遯君子吉，小人否。",
+            "ja": "こんにちは、ジェイ、小さい。",
+            "en": "Hello, Jay, small."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "嘉遯，貞吉。",
+            "ja": "カラオケ、サンジー。",
+            "en": "Karaoke, Sunsy."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "肥遯，无不利。",
+            "ja": "脂肪、悪くない。",
+            "en": "Fat, not bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "name": {
+        "zh": "大壯",
+        "ja": "偉大",
+        "en": "Great."
+      },
+      "judgment": {
+        "zh": "利貞。",
+        "ja": "リヴァン。",
+        "en": "Rivan."
+      },
+      "image": {
+        "zh": "雷在天上，大壯；君子以非禮弗履。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(The heavens and the earth are full of your productions.) (The heavens are full of your productions.) (The earth is full of your productions.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "壯于趾，征凶，有孚。",
+            "ja": "手のひら、手のひら、手のひら。",
+            "en": "The palm, the palm, the palm of the hand, and the palm of the hand."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "貞吉。",
+            "ja": "サンジ。",
+            "en": "Sunji."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "小人用壯，君子用罔，貞厲。羝羊觸藩，羸其角。",
+            "ja": "小さなお子さん、小さいお子さん、小さいお子さん、小さいお子さん、小さいお子さん、小さいお子さん。",
+            "en": "Little kids, little kids, little kids, little kids, little kids, little kids, little kids, little kids, little kids, little kids, little kids."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "貞吉悔亡，藩決不羸，壯于大轝之腹。",
+            "ja": "かれは悔い改め、かれは悔い改め、かれは悔い改め。",
+            "en": "He repents, he repents, and he repents."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "喪羊于易，无悔。",
+            "ja": "羊は軽く、悔い改めない。",
+            "en": "Sheep are light and do not repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "羝羊觸藩，不能退，不能遂，无攸利，艱則吉。",
+            "ja": "クジラは後退するものではなく、後退するものではありません。",
+            "en": "Whales don't retreat, they don't retreat."
+          }
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "name": {
+        "zh": "晉",
+        "ja": "☆ ☆ ☆",
+        "en": "I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry."
+      },
+      "judgment": {
+        "zh": "康侯用錫馬蕃庶，晝日三接。",
+        "ja": "昭和三日(昭和三日) 昭和三日(昭和三日) 昭和三日(昭和三日)",
+        "en": "That's what I'm talking about."
+      },
+      "image": {
+        "zh": "明出地上，晉；君子以自昭明德。",
+        "ja": "地上に浮かび上がり、地上に浮かび上がる。",
+        "en": "When you're up on the ground, you're up on the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "晉如，摧如，貞吉。罔孚，裕无咎。",
+            "ja": "まさか、まさか、まさか、まさか、まさか、まさか、まさか。",
+            "en": "No way! No way! No way! No way!"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "晉如，愁如，貞吉。受茲介福，于其王母。",
+            "ja": "主人公(しゅうしゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人",
+            "en": "And I'm going to show you what I'm going to show you in the next video."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "眾允，悔亡。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "晉如鼫鼠，貞厲。",
+            "ja": "まるで(かん)のようだ。",
+            "en": "It's as if you've got it all figured out."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "悔亡，矢得勿恤，往吉无不利。",
+            "ja": "悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+            "ja": "かれらは,かれらを,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれ",
+            "en": "They are with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them and with them."
+          }
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "name": {
+        "zh": "明夷",
+        "ja": "マイナス",
+        "en": "Negative"
+      },
+      "judgment": {
+        "zh": "利艱貞。",
+        "ja": "レイは忠実。",
+        "en": "Ray is loyal."
+      },
+      "image": {
+        "zh": "明入地中，明夷；君子以蒞眾，用晦而明。",
+        "ja": "かれらは地上に住み、地上に住み、地上に住み、地上に住む。",
+        "en": "They will live on the earth, they will live on it, they will live on it, they will live on it, they will live on it."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+            "ja": "主は三日(ひとり)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あいだ)に、主(しんせい)の間(あい",
+            "en": "(The Lord is between one and the other) (The Lord is between one and the other) (The Lord is between one and the other) (The Lord is between one and the other)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "明夷，夷于左股，用拯馬壯，吉。",
+            "ja": "左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)",
+            "en": "Left side (left side) and left left side (left side) and left left side (left left side) and left left side (left left side) and left left side (left left side) and left left side (left left side) and left side side side (left left side) and left left side (left left side) and left side side (left left side) and left left side (left side left side) and left side left side (left left side) and left side side side left side (left left side left side left side) and left side left side left side (left side left side"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "明夷于南狩，得其大首，不可疾貞。",
+            "ja": "南部を追い出し、大頭を獲得し、不忠実である。",
+            "en": "Kicking out the South, winning a big head, and being unfaithful."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "入于左腹，獲明夷之心，于出門庭。",
+            "ja": "左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)と左側(左側)",
+            "en": "Left side (left side) and left left side (left side) and left left side (left left side) and left left side (left left side) and left left side (left left side) and left left side (left left side) and left side side side (left left side) and left left side (left left side) and left side side (left left side) and left left side (left side left side) and left side left side (left left side) and left side side side left side (left left side left side left side) and left side left side left side (left side left side"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "箕子之明夷，利貞。",
+            "ja": "子 子 子 子",
+            "en": "CHILDREN"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "不明晦，初登于天，後入于地。",
+            "ja": "天下(あめつち)に天下(あめつち)に天下(あめつち)に天下(あめつち)に天下(あめつち)に",
+            "en": "To the heavens, to the earth, to the heaven, to the heaven, to the earth."
+          }
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "name": {
+        "zh": "家人",
+        "ja": "家族",
+        "en": "Family."
+      },
+      "judgment": {
+        "zh": "利女貞。",
+        "ja": "レイの女。",
+        "en": "Ray's girl."
+      },
+      "image": {
+        "zh": "風自火出，家人；君子以言有物，而行有恆。",
+        "ja": "火を吹き飛ばし、火を吹き飛ばし、火を吹き飛ばす。",
+        "en": "Blow fire, blow fire, blow fire."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "閑有家，悔亡。",
+            "ja": "帰宅、悔い改め。",
+            "en": "When I come home, I repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "无攸遂，在中饋，貞吉。",
+            "ja": "こだわり、こだわり、こだわり、こだわり。",
+            "en": "I'm obsessed, I'm obsessed, I'm obsessed, I'm obsessed."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+            "ja": "妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と妻(妻)と",
+            "en": "(wife and wife) (wife and wife) (wife and wife) (wife and wife) (wife and wife and wife) (wife and wife) (wife and wife) and wife and wife) and wife and wife and wife."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "富家，大吉。",
+            "ja": "金持ち、ダジー。",
+            "en": "Rich, Duzie."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "王假有家，勿恤。吉。",
+            "ja": "王様には家があるので、いやいや。",
+            "en": "The king has a house, so no."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "有孚威如，終吉。",
+            "ja": "やっぱりやっぱりやっぱりやっぱり",
+            "en": "I knew it. I knew it."
+          }
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "name": {
+        "zh": "睽",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "小事吉。",
+        "ja": "小さなジー。",
+        "en": "Little Zee."
+      },
+      "image": {
+        "zh": "上火下澤，睽；君子以同而異。",
+        "ja": "火(かん)と火(かん)と火(かん)と火(かん)が違う。",
+        "en": "No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "悔亡，喪馬勿逐，自復；見惡人无咎。",
+            "ja": "悔い改め、悔い改め、悔い改め、悔い改め、悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance, repentance."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "遇主于巷，无咎。",
+            "ja": "道のりで主に会い、無罪です。",
+            "en": "You see the Lord on the way, and you're not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "見輿曳，其牛掣，其人天且劓，无初有終。",
+            "ja": "見(み)て見(み)て見(み)て見(み)て見(み)て見(み)て",
+            "en": "(You look at it, you look at it, you look at it, you look at it.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "睽孤，遇元夫，交孚，厲无咎。",
+            "ja": "主人公、主人公、主人公、主人公、主人公。",
+            "en": "The characters, the characters, the characters, the characters, the characters."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "悔亡，厥宗噬膚，往何咎。",
+            "ja": "悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "睽孤，見豕負涂，載鬼一車，先張之弧，後說之弧，匪寇婚媾，往遇雨則吉。",
+            "ja": "孤、負塗、載鬼一車、先張の弓、後言の弓、バンコクの結婚、向き合う雨則吉。",
+            "en": "We're going to have to do something about it. We're going to do something about it. We're going to do something about it. We're going to do something about it."
+          }
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "name": {
+        "zh": "蹇",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "利西南，不利東北；利見大人，貞吉。",
+        "ja": "イエス・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト",
+        "en": "Jesus Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ"
+      },
+      "image": {
+        "zh": "山上有水，蹇；君子以反身修德。",
+        "ja": "山の上に水が流れ、山の上に水が流れる。",
+        "en": "Water flows on top of the mountain and water above the mountain."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "往蹇，來譽。",
+            "ja": "へ、名誉へ。",
+            "en": "Hey, to my honor."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "王臣蹇蹇，匪躬之故。",
+            "ja": "王様は、ひきこもりです。",
+            "en": "The king is in a hurry."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "往蹇來反。",
+            "ja": "に逆へ。",
+            "en": "To the contrary."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "往蹇來連。",
+            "ja": "に連れて来る。",
+            "en": "I'm going to get him."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "大蹇朋來。",
+            "ja": "大パンが来る。",
+            "en": "The pan is coming."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "往蹇來碩，吉；利見大人。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "name": {
+        "zh": "解",
+        "ja": "解解",
+        "en": "Solved"
+      },
+      "judgment": {
+        "zh": "利西南，无所往，其來復吉。有攸往，夙吉。",
+        "ja": "イエス・キリスト(イエス・キリスト)は、イエス・キリスト(イエス・キリスト)と共に、イエス・キリスト(イエス・キリスト)と共に、イエス・キリスト(イエス・キリスト)と共に、",
+        "en": "(Jesus Christ) with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ, with Jesus Christ."
+      },
+      "image": {
+        "zh": "雷雨作，解；君子以赦過宥罪。",
+        "ja": "雨を降らせて、罪を赦す。",
+        "en": "Let the rain rain and forgive your sins."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "无咎。",
+            "ja": "無罪。",
+            "en": "Not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "田獲三狐，得黃矢，貞吉。",
+            "ja": "田獲三狐、得黄矢、貞吉。",
+            "en": "Tauchi Three Fox, Ago and Shikichi."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "負且乘，致寇至，貞吝。",
+            "ja": "(し)と(し)と(し)と。",
+            "en": "I'm going to say, \"I'm going to do it.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "解而拇，朋至斯孚。",
+            "ja": "手を伸ばし、スウェーデンへ。",
+            "en": "Reach out and go to Sweden."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "君子惟有解，吉；有孚于小人。",
+            "ja": "知(し)らざる者(もの)は知(し)らざる者(もの)である。",
+            "en": "(The ignorant are those who do not know)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "公用射隼，于高墉之上，獲之，无不利。",
+            "ja": "(かん)の(かん)の(かん)の(かん)の(かん)の(かん)の(かん)",
+            "en": "(Singing) (Singing) (Singing) (Singing)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "name": {
+        "zh": "損",
+        "ja": "損失",
+        "en": "Loss"
+      },
+      "judgment": {
+        "zh": "有孚，元吉。无咎，可貞，利有攸往。曷之用？二簋可用享。",
+        "ja": "ふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつにふたつ",
+        "en": "Two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two, two."
+      },
+      "image": {
+        "zh": "山下有澤，損；君子以懲忿窒欲。",
+        "ja": "山(あいだ)の山(あいだ)の山(あいだ)の山(あいだ)の山(あいだ)の山(あいだ)",
+        "en": "It's between the mountains of the mountain and the mountain of the mountain."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "祀事遄往，无咎，酌損之。",
+            "ja": "罪を犯し、罪を犯し、罪を犯す。",
+            "en": "You're guilty, you're guilty, you're guilty, you're guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "利貞，征凶，弗損益之。",
+            "ja": "レイアウト・レイアウト・レイアウト",
+            "en": "Layout Layout"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "三人行，則損一人；一人行，則得其友。",
+            "ja": "三人(ひとびと)と三人(ひとびと)と三人(ひとびと)と三人(ひとびと)と三人(ひとびと)と三人(ひとびと)と",
+            "en": "Three, two, three, one, two, three."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "損其疾，使遄有喜，无咎。",
+            "ja": "苦しみ(苦しみ)は苦しみ(苦しみ)であり、苦しみ(苦しみ)は苦しみである。",
+            "en": "(Singing) is suffering, and suffering is suffering."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "或益之，十朋之龜弗克違，元吉。",
+            "ja": "あるいは、十のの()の()の()の()である。",
+            "en": "(or the word \"ten\")."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "弗損益之，无咎，貞吉，利有攸往，得臣无家。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, sis, sis, sis, sis, pussies."
+          }
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "name": {
+        "zh": "益",
+        "ja": "利益",
+        "en": "Benefits"
+      },
+      "judgment": {
+        "zh": "利有攸往。利涉大川。",
+        "ja": "こんにちは こんにちは こんにちは",
+        "en": "Hello. Hello."
+      },
+      "image": {
+        "zh": "風雷，益；君子以見善則遷，有過則改。",
+        "ja": "善(よ)く、善(よ)く、善(よ)く、善(よ)く、善(よ)く。",
+        "en": "(Let's do good, let's do good (let's do good, let's do good) Let's do good) let's do good (let's do good) let's do good (let's do good) let's do good (let's do good) let's do good) let's do good (let's do good) let's do good (let's do good) let's do good (let's do good) let's do good) let's do good (let's do good"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "利用為大作，元吉，无咎。",
+            "ja": "無罪、無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+            "ja": "あるいは、神(かみ)の神(かみ)の神(かみ)の神(かみ)の神(かみ)の神(かみ)である。",
+            "en": "I'm the god of the god (or the god of the gods)."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "益之用凶事，无咎。有孚中行，告公用圭。",
+            "ja": "罪を犯し、罪を犯し、罪を犯す。",
+            "en": "You're guilty, you're guilty, you're guilty, you're guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "中行，告公從。利用為依遷國。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, chiropractors."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "有孚惠心，勿問元吉。有孚惠我德。",
+            "ja": "☆☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "莫益之，或擊之，立心勿恆，凶。",
+            "ja": "かれらは,かれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれらに,またかれ",
+            "en": "They are with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them, and with them."
+          }
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "name": {
+        "zh": "夬",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(The heavens were opened up, and the earth was opened up, and the heavens were opened up, and the heavens were opened up, and the earth was opened up, and the heavens were opened up, and the heavens were opened up.)"
+      },
+      "image": {
+        "zh": "澤上于天，夬；君子以施祿及下，居德則忌。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(The heavens and the earth are full of your productions.) (The heavens are full of your productions.) (The earth is full of your productions.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "壯于前趾，往不勝為咎。",
+            "ja": "優先順位で優先順位で優先順位で優先順位で優先順位ではない。",
+            "en": "Priorities, priorities, priorities, priorities, not priorities."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "惕號，莫夜有戎，勿恤。",
+            "ja": "夜(あいさつ)は夜(あいさつ)は夜(あいさつ)は夜(あいさつ)は",
+            "en": "(The night is over) (The night is over) (the night is over) (the night is over)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
+            "ja": "雨が降り、雨が降り、雨が降り、雨が降り、雨が降る。",
+            "en": "It rains, it rains, it rains, it rains, it rains, it rains, it rains, it rains, it rains."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
+            "ja": "かれらは悔い改め、悔い改め、悔い改め、悔い改め。",
+            "en": "They repent, repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "莧陸夬夬，中行无咎。",
+            "ja": "地中間は無罪。",
+            "en": "Not guilty in the middle of the earth."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "无號，終有凶。",
+            "ja": "無数、ついに残酷です。",
+            "en": "Countless, at last cruel."
+          }
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "name": {
+        "zh": "姤",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "女壯，勿用取女。",
+        "ja": "女性は、女性を抱きしめてはいけない。",
+        "en": "Women shouldn't hug women."
+      },
+      "image": {
+        "zh": "天下有風，姤；后以施命誥四方。",
+        "ja": "天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)の天下(あめつち)",
+        "en": "The heavens above are higher than the earth, and the earth is higher than it is."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "系于金柅，貞吉，有攸往，見凶，羸豕，孚，蹢躅。",
+            "ja": "、、、、、、、、。",
+            "en": "Hey, hey, hey, hey."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "包有魚，无咎，不利賓。",
+            "ja": "魚は無罪で、不利である。",
+            "en": "Fish are innocent and a disadvantage."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "臀无膚，其行次且，厲，无大咎。",
+            "ja": "背中が無く、背中が無く、背中が無く、背中が無く。",
+            "en": "There's no back, no back, no back, no back, no back, no back."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "包无魚，起凶。",
+            "ja": "魚無し、殺し。",
+            "en": "No fish, kill."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "以杞包瓜，含章，有隕自天。",
+            "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)の間(あいだ)に",
+            "en": "(Beatboxing)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "姤其角，吝，无咎。",
+            "ja": "無罪、無罪、無罪。",
+            "en": "Not guilty, not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "name": {
+        "zh": "萃",
+        "ja": "エクス",
+        "en": "Ex"
+      },
+      "judgment": {
+        "zh": "王假有廟，利見大人，亨。利貞。用大牲吉，利有攸往。",
+        "ja": "主人公、主人公、主人公、主人公、主人公、主人公、主人公、主人公、主人公。",
+        "en": "I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you what I'm going to do. I'm going to show you, I'm going to show you what I'm going to"
+      },
+      "image": {
+        "zh": "澤上于地，萃；君子以除戎器，戒不虞。",
+        "ja": "地上に降りて行き、地上に降りて行き、地上に降りて行く。",
+        "en": "You go down to the ground, you go down to the ground, and you go down to the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
+            "ja": "かれらはかれらを嘲笑し、かれらはかれらを嘲笑し、かれらはかれらを嘲笑し、かれらはかれらを嘲笑する。",
+            "en": "They laugh at them, they laugh at them, they laugh at them, and they laugh at them."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "引吉，无咎，孚乃利用禴。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "萃如，嗟如，无攸利，往无咎，小吝。",
+            "ja": "かれらは,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と,かれらに不義と。",
+            "en": "They did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them, and did wrong to them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "大吉，无咎。",
+            "ja": "大吉、無罪。",
+            "en": "Oyichi, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "萃有位，无咎。匪孚，元永貞，悔亡。",
+            "ja": "悔い改め、悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "齎資涕洟，无咎。",
+            "ja": "無罪、無罪。",
+            "en": "Not guilty, not guilty."
+          }
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "name": {
+        "zh": "升",
+        "ja": "アップ",
+        "en": "Up"
+      },
+      "judgment": {
+        "zh": "元亨，用見大人，勿恤，南征吉。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "地中生木，升；君子以順德，積小以高大。",
+        "ja": "地上に木を生み出し、上昇し、王は順に積み重ね、高く積み重ねる。",
+        "en": "It creates and raises trees on the ground, and the king stacks and stacks them high."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "允升，大吉。",
+            "ja": "引き上げて、ダジー。",
+            "en": "Pull it up, Duzie."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "孚乃利用禴，无咎。",
+            "ja": "はを使い、無罪です。",
+            "en": "He's not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "升虛邑。",
+            "ja": "偽りを上げる。",
+            "en": "I'm going to put up a lie."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "王用享于岐山，吉无咎。",
+            "ja": "王様は山々を訪ねて、罪を犯さない。",
+            "en": "The king visits the mountains and doesn't sin."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "貞吉，升階。",
+            "ja": "サウジアラビア、上昇",
+            "en": "It's going up in Saudi Arabia, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going to go up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it's going up, it"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "冥升，利于不息之貞。",
+            "ja": "慈悲深き御方、慈悲深き御方。",
+            "en": "The All-merciful, the All-merciful."
+          }
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "name": {
+        "zh": "困",
+        "ja": "困った",
+        "en": "I'm in trouble."
+      },
+      "judgment": {
+        "zh": "亨，貞大人吉，无咎，有言不信。",
+        "ja": "イエス・キリストは不信心であり、不信心である。",
+        "en": "Jesus Christ is faithless and faithless."
+      },
+      "image": {
+        "zh": "澤无水，困；君子以致命遂志。",
+        "ja": "水(みず)も水(みず)も水(みず)も水(みず)も水(みず)も水(みず)も",
+        "en": "(No water, no water) (No water, no water) (No water, no water) (No water, no water)) (No water, no water, no water, no water.)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "臀困于株木，入于幽谷，三歲不覿。",
+            "ja": "樹木に閉じ込められ、幽谷に入り、3歳未満。",
+            "en": "He's trapped in a tree, he's in a valley, and he's under three years old."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "困于酒食，朱紱方來，利用亨祀，征凶，无咎。",
+            "ja": "酒を飲んだり、酒を飲んだり、酒を飲んだり、酒を飲んだり。",
+            "en": "Drinking, drinking, drinking, drinking, drinking."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "困于石，據于蒺蔾，入于其宮，不見其妻，凶。",
+            "ja": "石に閉じ込められ、に従って宮殿に入り、妻を見ず、罪を犯した。",
+            "en": "Locked in a stone, entered the palace according to the law, ignored his wife, and sinned."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "來荼荼，困于金轝，吝，有終。",
+            "ja": "ひきこもり、ひきこもり、ひきこもり。",
+            "en": "I don't know. I don't know. I don't know. I don't know."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "劓刖，困于赤紱，乃徐有說，利用祭祀。",
+            "ja": "(かん)と(かん)と(かん)と(かん)と(かん)と(かん)と(かん)",
+            "en": "(Singing) (Singing) and (Singing) and (singing) and (singing) and (singing) and (singing) and (singing) and (singing) and (singing) and (singing) and (singinging) and (singing) and (singinging) and (singinging) and (singinging) and (singingings) and (sings) and (sings)) and (sings) and"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "困于葛藟，于臲卼，曰動悔。有悔，征吉。",
+            "ja": "悔い改め、悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent, repent."
+          }
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "name": {
+        "zh": "井",
+        "ja": "井",
+        "en": "I'll take care of it."
+      },
+      "judgment": {
+        "zh": "改邑不改井，无喪无得，往來井井。汔至亦未繘井。羸其瓶，凶。",
+        "ja": "水(みず)は水(みず)に、水(みず)は水(みず)に、水(みず)は水(みず)に、水(みず)は水(みず)に、水(みず)は水(みず)に、水(みず)は水(みず)に、水(みず)は水(みず)に。",
+        "en": "(No water, no water, no water) (No water, no water) (No water, no water) (No water, no water)) (No water, no water, no water)) (No water, no water, no water)) (No water, no water, no water))) (No water, no water, no water.)) (No water, no water, no water.))"
+      },
+      "image": {
+        "zh": "木上有水，井；君子以勞民勸相。",
+        "ja": "木には水と井があり、兵士は労働者に勧められる。",
+        "en": "The trees have water and wells, and soldiers are recommended to the workers."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "井泥不食，舊井无禽。",
+            "ja": "井戸は食べない、古井は鳥なし。",
+            "en": "I don't eat well, and I don't have birds."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "井谷射鮒，瓮敝漏。",
+            "ja": "井井井井井井井井井井",
+            "en": "I see. I see. I see. I see. I see."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "井渫不食，為我心惻，可用汲，王明，並受其福。",
+            "ja": "わたしの心に栄養を与え、わたしの心に栄養を与え、わたしの心に栄養を与える。",
+            "en": "It nourishes my mind, nourishs my mind, and nourishs my mind."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "井甃，无咎。",
+            "ja": "井、無罪。",
+            "en": "Not guilty, Ii."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "井冽，寒泉食。",
+            "ja": "井、冷泉食。",
+            "en": "I'll eat cold springs."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "井收勿幕，有孚元吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "name": {
+        "zh": "革",
+        "ja": "ネックレス",
+        "en": "A necklace."
+      },
+      "judgment": {
+        "zh": "已日乃孚，元亨。利貞。悔亡。",
+        "ja": "☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "澤中有火，革；君子以治歷明時。",
+        "ja": "火(かん)と火(かん)と火(かん)と火(かん)と火(かん)と火(かん)と火(かん)",
+        "en": "(Fire and fire) And fire and fire) and fire."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "鞏用黃牛之革。",
+            "ja": "黄牛のを用いた。",
+            "en": "I used the yellow cow."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "已日乃革之，征吉，无咎。",
+            "ja": "日中(あめつち)は無(あめつち)と無(あめつち)です。",
+            "en": "(Singing during the day) (Singing during the day) and singing during the day)."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "征凶，貞厲，革言三就，有孚。",
+            "ja": "主人公(しゅうしゅう)と主人公(しゅうしゅう)の間(あいだ)に3人(ひとびと)の間(あいだ)に",
+            "en": "It's between the three of us."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "悔亡，有孚改命，吉。",
+            "ja": "悔い改め、命を変え、ジー。",
+            "en": "Repentance, change your life, and Zee."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "大人虎變，未占有孚。",
+            "ja": "大人タイガーが変わり、FFを占領していない。",
+            "en": "The grown-up tiger has changed, and he hasn't occupied the FF."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "君子豹變，小人革面，征凶，居貞吉。",
+            "ja": "小さな人、小さな人、小さな人、小さな人、小さな人。",
+            "en": "Small people, little people, little people, little people, little people, little people, little people."
+          }
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "name": {
+        "zh": "鼎",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "元吉，亨。",
+        "ja": "元吉、ハン。",
+        "en": "Ex. Yoshiki, Han."
+      },
+      "image": {
+        "zh": "木上有火，鼎；君子以正位凝命。",
+        "ja": "木の上に火があり、木の上に火があり、木の上に火があり、木の上に火がある。",
+        "en": "There's fire on the tree, there's fire on the tree, there's fire on the tree, there's fire on the tree, there's fire on the tree, there's fire on the tree."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "鼎顛趾，利出否，得妾以其子，无咎。",
+            "ja": "御子(みこころ)は御子(みこころ)で、御子(みこころ)は御子(みこころ)で、御子(みこころ)は御子(みこころ)で。",
+            "en": "Your son is here, and your son is here."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "鼎有實，我仇有疾，不我能即，吉。",
+            "ja": "わたしは真実を信じるが、わたしは真実を信じない。",
+            "en": "I believe the truth, but I don't believe the truth."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+            "ja": "かれらは、かれらを食い尽くし、かれらを食い尽くし、かれらを食い尽くし、かれらを食い尽くす。",
+            "en": "They will eat from them, and eat from them, and eat from them, and eat from them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "鼎折足，覆公餗，其刑渥，凶。",
+            "ja": "罪を犯し、罪を犯し、罪を犯す。",
+            "en": "You're guilty, you're guilty, you're guilty, you're guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "鼎黃耳金鉉，利貞。",
+            "ja": "黄黄黄黄黄黄黄黄黄黄黄黄黄",
+            "en": "Yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow, yellow."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "鼎玉鉉，大吉，无不利。",
+            "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "name": {
+        "zh": "震",
+        "ja": "震災",
+        "en": "Earthquake"
+      },
+      "judgment": {
+        "zh": "亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "洊雷，震；君子以恐懼修省。",
+        "ja": "震え、震え、兵士は恐れながら修復する。",
+        "en": "Shakes, tremors, and soldiers repair in fear."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "震來虩虩，後笑言啞啞，吉。",
+            "ja": "笑い、笑い、笑い、笑い。",
+            "en": "It's funny. It's funny, it's funny, it's funny, it's funny, it's funny, it's funny, it's funny, it's funny, it's funny."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+            "ja": "9日(日)に(つく)て(つく)て(つく)て(つく)て(つく)て(つく)て",
+            "en": "I'm going to do something like this. I'm going to do something like this."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "震蘇蘇，震行无眚。",
+            "ja": "サウジアラビアの震災、震災。",
+            "en": "Saudi Arabia earthquake, earthquake."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "震遂泥。",
+            "ja": "泥の震え。",
+            "en": "The mud shake."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "震往來厲，億无喪，有事。",
+            "ja": "何百万、何百万、何百万、何百万、何百万、何百万。",
+            "en": "Millions, millions, millions, millions, millions, millions, millions, millions."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。婚媾有言。",
+            "ja": "主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(しゅうしゅう)と主人公(し",
+            "en": "They call themselves \"the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the mighty and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great and the great"
+          }
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "name": {
+        "zh": "艮",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "艮其背，不獲其身，行其庭，不見其人，无咎。",
+        "ja": "かれらの背中は、かれらを捕らえず、かれらの裁きを行い、かれらを見ず、かれらの罪を犯さない。",
+        "en": "Their backs shall not seize them, nor shall they judge them, nor shall they sin against them."
+      },
+      "image": {
+        "zh": "兼山，艮；君子以思不出其位。",
+        "ja": "山も山も山も山も山も山も山も山も山も山も山も山も山も山も山も山も山も山も",
+        "en": "The mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains, the mountains."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "艮其趾，无咎，利永貞。",
+            "ja": "この言葉はの指、無罪、利永貞・・・。",
+            "en": "These words are fingernails, not guilty, Sadie."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "艮其腓，不拯其隨，其心不快。",
+            "ja": "かれらはかれらを救い、かれらはかれらを救わない。",
+            "en": "They will save them, and they will not save them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "艮其限，裂其夤，厲閽心。",
+            "ja": "かれらはかれらを滅ぼし、かれらを滅ぼし、かれらはかれらを滅ぼす。",
+            "en": "They will destroy them, and they will destroy them, and they will destroy them."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "艮其身，无咎。",
+            "ja": "無罪で無罪である。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "艮其輔，言有孚，悔亡。",
+            "ja": "悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "敦艮，吉。",
+            "ja": "ダンソン、ジー。",
+            "en": "Danson and Szy."
+          }
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "name": {
+        "zh": "漸",
+        "ja": "徐々に",
+        "en": "Little by little."
+      },
+      "judgment": {
+        "zh": "女歸吉，利貞。",
+        "ja": "女が帰って来て、リヴァン。",
+        "en": "A woman came home, Rivan."
+      },
+      "image": {
+        "zh": "山上有木，漸；君子以居賢德，善俗。",
+        "ja": "山の上に木があるが、主人公は賢明で善良である。",
+        "en": "There is a tree on the mountain, but the hero is wise and good."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "鴻漸于干，小子厲，有言，无咎。",
+            "ja": "子(こ)と子(こ)と子(こ)と子(こ)と子(こ)と子(こ)と子(こ)",
+            "en": "(Sachiko) (Suko-suko-suko-suko-suko-suko) (Suko-suko-suko-suko) and (Suko-suko-suko-suko) and (Suko-suko-suko-suko) and (Suko-suko-suko) and (Suko-suko) and (Suko-suko-suko-suko-suko) and (Suko-suko-suko) and (Suko-suko-suko) and (S"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "鴻漸于磐，飲食衎衎，吉。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+            "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+            "en": "Heroes, sis, sis, sis, sis, pussies."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "鴻漸于木，或得其桷，无咎。",
+            "ja": "木(かみ)や木(かみ)の木(かみ)の木(かみ)の木(かみ)の木(かみ)など。",
+            "en": "Like the wood of a tree (trees of wood) and the wood of a tree)."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "鴻漸于陵，婦三歲不孕，終莫之勝，吉。",
+            "ja": "三歳の女性が妊娠し、終末の勝利、吉。",
+            "en": "A three-year-old woman gets pregnant and ends up winning, and good luck."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "鴻漸于陸，其羽可用為儀，吉。",
+            "ja": "地上に降りて行き、地上に降りて行き、",
+            "en": "I'm going to go down to the ground. I'm going to go down to the Earth."
+          }
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "name": {
+        "zh": "歸妹",
+        "ja": "姉に戻る。",
+        "en": "I'm going back to my sister."
+      },
+      "judgment": {
+        "zh": "征凶，无攸利。",
+        "ja": "殺人、無利息。",
+        "en": "Murder, no interest."
+      },
+      "image": {
+        "zh": "澤上有雷，歸妹；君子以永終知敝。",
+        "ja": "イエス・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト",
+        "en": "Jesus Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "歸妹以娣，跛能履，征吉。",
+            "ja": "イエス・キリスト(イエス・キリスト)とイエス・キリスト(イエス・キリスト)は、",
+            "en": "(Laughter) (Applause)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "眇能視，利幽人之貞。",
+            "ja": "見(み)て見(み)て見(み)て",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "歸妹以須，反歸以娣。",
+            "ja": "姉に戻って帰ってくる。",
+            "en": "I'm going to go back to my sister."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "歸妹愆期，遲歸有時。",
+            "ja": "久しぶりに帰り、久しぶりに帰り。",
+            "en": "It's been a long time since I've been home. I've been home for a long time."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "帝乙歸妹，其君之袂，不如其娣之袂良，月幾望，吉。",
+            "ja": "天孫降臨の月は天孫降臨の月であり、天孫降臨の月は天孫降臨の月である。",
+            "en": "The moon in the fall of the sky is the moon in the fall of the Sun, and the moon in the fall of the Sun is the moon in the fall of the Sun."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "女承筐无實，士刲羊无血，无攸利。",
+            "ja": "女は血を流さず、羊は血を流さず。",
+            "en": "Women do not shed blood, and sheep do not shed blood."
+          }
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "name": {
+        "zh": "豐",
+        "ja": "豊",
+        "en": "Prosperity"
+      },
+      "judgment": {
+        "zh": "亨。王假之，勿憂，宜日中。",
+        "ja": "☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "雷電皆至，豐；君子以折獄致刑。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(The heavens were opened up, and the earth was opened up, and the earth was opened up.) (The heavens were opened up, and the earth was opened up, and the heavens were opened up, and the earth was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened, and the sea was opened, and the sea was opened up, and the sea was opened up, and"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "遇其配主，雖旬无咎，往有尚。",
+            "ja": "主の御許(みこころ)を守り、主の御許(みこころ)を守る。",
+            "en": "We will protect [God's will] and protect it."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "豐其蔀，日中見斗，往得疑疾，有孚發若，吉。",
+            "ja": "昼間(あいさつ)と昼間(あいさつ)と昼間(あいさつ)と昼間(あいさつ)と昼間(あいさつ)と昼間(あいさつ)と昼間(あいさつ)と",
+            "en": "(Singing during the day) (Singing during the day) (Singing during the day) (Singing during the day) (Singing during the day) (Singing during the day) (Singing during the day)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "豐其沛，日中見沬，折其右肱，无咎。",
+            "ja": "右側に、右側に、右側に、右側に、右側に、右側に、右側に。",
+            "en": "On the right, on the right, on the right, on the right, on the right, on the right, on the right, on the right, on the right, on the right, on the right."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "豐其蔀，日中見斗，遇其夷主，吉。",
+            "ja": "主の御前(みこころ)の日(ひ)に、主の御前(みこころ)の日(ひ)に、主の御前(みこころ)に、",
+            "en": "And on the day of thy Lord, and on the day of thy Lord."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "來章，有慶譽，吉。",
+            "ja": "おめでとうございます☆☆☆☆☆",
+            "en": "Congratulations."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "豐其屋，蔀其家，窺其戶，闃其无人，三歲不觌，凶。",
+            "ja": "故郷に住み、故郷に住み、故郷に住み、故郷に住み、故郷に住み、故郷に住み、故郷に住む。",
+            "en": "To live in your home, to live in your home, to live in your home, to live in your home, to live in your hometown, to live in your hometown, to live in your hometown, to live in your hometown, to live in your hometown."
+          }
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "name": {
+        "zh": "旅",
+        "ja": "旅行",
+        "en": "Travel"
+      },
+      "judgment": {
+        "zh": "小亨，旅貞吉。",
+        "ja": "小漢、旅貞吉。",
+        "en": "Shonan, Shinichi."
+      },
+      "image": {
+        "zh": "山上有火，旅；君子以明慎用刑，而不留獄。",
+        "ja": "地上に火が降りて来るが、地上に火が降りて来る。",
+        "en": "Fire is coming down on the ground, but fire is coming on the ground."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "旅瑣瑣，斯其所取災。",
+            "ja": "乗り物は、スコットランドにあった。",
+            "en": "The vehicle was in Scotland."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "旅即次，懷其資，得僮僕貞。",
+            "ja": "帰り道(帰り道) 帰り道(帰り道) 帰り道。",
+            "en": "I'm on my way home."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "旅焚其次，喪其僮僕，貞厲。",
+            "ja": "二つ目は火を焼き尽くすこと。",
+            "en": "The second is to burn down the fire."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "旅于處，得其資斧，我心不快。",
+            "ja": "こっちへ行って、ひきこもり、わたしの心はひきこもり。",
+            "en": "Go this way, stay out of it, my mind is closed."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "射雉一矢亡，終以譽命。",
+            "ja": "射殺が終わり、死に至る。",
+            "en": "The shooting ends and you die."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "鳥焚其巢，旅人先笑後號咷。喪牛于易，凶。",
+            "ja": "鳥はその巣を焼き、旅人は先に笑い、牛は軽く、悪い。",
+            "en": "Birds burn the nest, travelers laugh first, cows are light and bad."
+          }
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "name": {
+        "zh": "巽",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "小亨。利有攸往。利見大人。",
+        "ja": "こんにちは! こんにちは! 大人。",
+        "en": "Hello! Hello! Hello, adults."
+      },
+      "image": {
+        "zh": "隨風，巽；君子以申命行事。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(Beyond and below) and below (beyond and below)."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "進退，利武人之貞。",
+            "ja": "帰って来て、利武人の忠誠。",
+            "en": "When you come back, you'll be loyal to him."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "巽在牀下，用史巫紛若，吉无咎。",
+            "ja": "魔法使い(魔法使い)と魔法使い(魔法使い)と魔法使い(魔法使い)と魔法使い。",
+            "en": "Magicians and wizards and wizards."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "頻巽，吝。",
+            "ja": "しばしば、しばしば。",
+            "en": "Often."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "悔亡，田獲三品。",
+            "ja": "悔い改め、田は三品を獲得した。",
+            "en": "Repentance, Tata won three pieces."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+            "ja": "3日(日)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)前(まえ)",
+            "en": "(Absolute) (Absolute) (Absolute) (Absolute)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "巽在牀下，喪其資斧，貞凶。",
+            "ja": "の下で、の下で、の下で、。",
+            "en": "Under, below, below, below."
+          }
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "name": {
+        "zh": "兌",
+        "ja": "交差点",
+        "en": "Intersect"
+      },
+      "judgment": {
+        "zh": "亨。利貞。",
+        "ja": "ハン・リヴァン。",
+        "en": "Han Rivan."
+      },
+      "image": {
+        "zh": "麗澤，兌；君子以朋友講習。",
+        "ja": "イエス・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト・キリスト",
+        "en": "Jesus Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ Christ"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "和兌，吉。",
+            "ja": "まさか、吉。",
+            "en": "No way, Yoshimi."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "孚兌，吉，悔亡。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "來兌，凶。",
+            "ja": "交差し、悪。",
+            "en": "Crossing, evil."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "商兌，未寧，介疾有喜。",
+            "ja": "楽しく、楽しく、楽しく、楽しく。",
+            "en": "It's fun, fun, fun, fun, fun."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "孚于剝，有厲。",
+            "ja": "強く、強く。",
+            "en": "Strong and strong."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "引兌。",
+            "ja": "引き出し。",
+            "en": "A drawer."
+          }
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "name": {
+        "zh": "渙",
+        "ja": "この言葉はです。",
+        "en": "That's the word."
+      },
+      "judgment": {
+        "zh": "亨，王假有廟，利涉大川，利貞。",
+        "ja": "主人公(しんしんしんしんしんしんしんしんしんしんしんしんしんしんしん)",
+        "en": "Heroes, chiropractors."
+      },
+      "image": {
+        "zh": "風行水上，渙；先王以享于帝立廟。",
+        "ja": "風は水の上に、、先王は帝立寺を享受する。",
+        "en": "The wind is above the water, and the king enjoys the Temple of the Emperor."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "用拯馬壯，吉，悔亡。",
+            "ja": "悔い改め、悔い改め、悔い改め。",
+            "en": "Repent, repent, repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "渙奔其机，悔亡。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "渙其躬，无悔。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "渙其群，元吉。渙有丘，匪夷所思。",
+            "ja": "山々、山々、山々、山々、山々、山々。",
+            "en": "Mountains, mountains, mountains, mountains, mountains, mountains, mountains."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "渙汗其大號，渙王居，无咎。",
+            "ja": "汗の大番、王居、無罪。",
+            "en": "Sweat tops, royals, and not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "渙其血，去逖出，无咎。",
+            "ja": "血を流し出し、罪を犯さない。",
+            "en": "You spill blood and you don't commit crimes."
+          }
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "name": {
+        "zh": "節",
+        "ja": "節",
+        "en": "Paragraph"
+      },
+      "judgment": {
+        "zh": "亨。苦節不可貞。",
+        "ja": "ハン:苦しみは信じられない。",
+        "en": "Han: I don't believe in suffering."
+      },
+      "image": {
+        "zh": "澤上有水，節；君子以制數度，議德行。",
+        "ja": "水(みず)と水(みず)と水(みず)と水(みず)と水(みず)と水(みず)と",
+        "en": "I'm going to say, \"No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "不出戶庭，无咎。",
+            "ja": "裁判所から出ない、無罪。",
+            "en": "He's not getting out of court, he's not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "不出門庭，凶。",
+            "ja": "裁判所から出ない、罪。",
+            "en": "I'm not getting out of court. I'm guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "不節若，則嗟若，无咎。",
+            "ja": "いやいやいやいやいやいやいや",
+            "en": "No, no, no, no, no, no, no."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "安節，亨。",
+            "ja": "安節、ハン。",
+            "en": "Tadashi, Han."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "甘節，吉；往有尚。",
+            "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "苦節，貞凶，悔亡。",
+            "ja": "悔い改め、悔い改め。",
+            "en": "Repent, repent."
+          }
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "name": {
+        "zh": "中孚",
+        "ja": "中戸",
+        "en": "Middle Door"
+      },
+      "judgment": {
+        "zh": "豚魚吉，利涉大川，利貞。",
+        "ja": "豚魚吉、利関大川、利貞。",
+        "en": "A pigfish, a pigfish, a river of Fukuoka, and a spirit."
+      },
+      "image": {
+        "zh": "澤上有風，中孚；君子以議獄緩死。",
+        "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)と天下(あめつち)",
+        "en": "(The heavens were opened up, and the earth was opened up.) (The heavens were opened up, and the earth was opened up, and the heavens were opened up.) (The heavens were opened up, and the earth was opened up, and the earth was opened up, and the sea was opened up, and the sea was opened up, and the sea was opened, and the sea was opened up, and the sea was opened up, and the sea was opened, and the sea was opened, and the sea was opened up, and the sea was opened up, and the sea was opened, and the"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "虞吉，有它不燕。",
+            "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "鳴鶴在陰，其子和之，我有好爵，吾與爾靡之。",
+            "ja": "「わたしの子よ、わたしの子よ、わたしの子よ、わたしの子よ。",
+            "en": "\"My son, my son, my son, my son.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "得敵，或鼓或罷，或泣或歌。",
+            "ja": "敵、または鼓、またはストライキ、または泣く、または歌う。",
+            "en": "The enemy, or the drum, or strike, or cry or sing."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "月既望，馬匹亡，无咎。",
+            "ja": "月が降りて、馬は死ぬ。",
+            "en": "The moon goes down and the horse dies."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "有孚攣如，无咎。",
+            "ja": "無罪、無罪である。",
+            "en": "Not guilty, not guilty."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "翰音登于天，貞凶。",
+            "ja": "天下(あめつち)と天下(あめつち)と天下(あめつち)",
+            "en": "(Beyond the heavens and below the earth)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "name": {
+        "zh": "小過",
+        "ja": "小さい",
+        "en": "Small."
+      },
+      "judgment": {
+        "zh": "亨。利貞。可小事，不可大事。飛鳥遺之音，不宜上宜下，大吉。",
+        "ja": "小さなことでも大事なことでもない、飛鳥遺の音でもない。",
+        "en": "It doesn't matter. It doesn't matter. It doesn't sound like a bird's-eye."
+      },
+      "image": {
+        "zh": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+        "ja": "山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と山(あめつち)と",
+        "en": "(Singing) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains) (Singing in the mountains) and singing in the mountains) (Singing in the mountains) (Singing in the mountains)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "飛鳥以凶。",
+            "ja": "飛ぶ鳥を殺す。",
+            "en": "Kill the bird."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "過其祖，遇其妣；不及其君，遇其臣；无咎。",
+            "ja": "かれらの祖先は、かれらに従い、かれらに従い、かれらに従い、かれらに従い、かれらに従い、かれらに従い、かれらに従い、かれらに従い、かれらに従う。",
+            "en": "Their fathers obeyed them, followed them, followed them, obeyed them, obeyed them, obeyed them, followed them, followed them, followed them, followed them, followed them, followed them, followed them, followed them, followed them, followed them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "弗過防之，從或戕之，凶。",
+            "ja": "かれらは,かれらから,またかれらから,またかれらから,またかれらから,またかれらから,またかれらから。",
+            "en": "From them, from them, from them, from them, from them, from them, from them, from them, from them."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "无咎，弗過遇之。往厲必戒，勿用永貞。",
+            "ja": "あなたがたは不信心な者であり、不信心な者であり、不信心な者である。",
+            "en": "You are unbelievers, unbelievers, and unbelievers."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "密雲不雨，自我西郊，公弋取彼在穴。",
+            "ja": "雨が降らない、西側の自ら、公務員が彼を穴に取る。",
+            "en": "It doesn't rain, and government officials in the West take him into a hole."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+            "ja": "かれらはかれらを滅ぼし、かれらはかれらを滅ぼし、かれらはかれらを滅ぼす。",
+            "en": "They will destroy them, and they will destroy them, and they will destroy them."
+          }
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "name": {
+        "zh": "既濟",
+        "ja": "すでに",
+        "en": "Already."
+      },
+      "judgment": {
+        "zh": "亨小。利貞。初吉終亂。",
+        "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "水在火上，既濟；君子以思患而豫防之。",
+        "ja": "火の中には水が流れ、火の中には水が流れ、火の中には水が流れる。",
+        "en": "Water flows through the fire, water flows through the fire, water flows through the fire, and water flows through the fire."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "初の9",
+            "en": "First nine."
+          },
+          "text": {
+            "zh": "曳其輪，濡其尾，无咎。",
+            "ja": "つぶやき、つぶやき、つぶやき。",
+            "en": "Murmuring, muttering, muttering, muttering and muttering."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "六二",
+            "en": "Sixty-two."
+          },
+          "text": {
+            "zh": "婦喪其茀，勿逐，七日得。",
+            "ja": "7日(日) 妻(しゅうしゅう) 妻(しゅうしゅう) 妻(しゅうしゅう)",
+            "en": "WIFE'S WIFE'S GUY."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "九三",
+            "en": "Nine-three."
+          },
+          "text": {
+            "zh": "高宗伐鬼方，三年克之，小人勿用。",
+            "ja": "小さな子は3年、小さい子は3年、小さい子は3年。",
+            "en": "The little ones are three years, the small ones three years, and the small ones three years."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "六四",
+            "en": "Sixty-four."
+          },
+          "text": {
+            "zh": "繻有衣袽，終日戒。",
+            "ja": "服を着て、一日中。",
+            "en": "Wearing clothes, all day long."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "九五",
+            "en": "-Seventy-five."
+          },
+          "text": {
+            "zh": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+            "ja": "東近隣の牛を殺すのは、西近隣の祭よりも、その祝福を実現する。",
+            "en": "Killing the cattle in the East is more a blessing than a festival in the West."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "上6",
+            "en": "Six up."
+          },
+          "text": {
+            "zh": "濡其首，厲。",
+            "ja": "頭が濡れ、厳しい。",
+            "en": "My head is wet and tight."
+          }
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "name": {
+        "zh": "未濟",
+        "ja": "未定",
+        "en": "Unidentified"
+      },
+      "judgment": {
+        "zh": "亨。小狐汔濟，濡其尾，无攸利。",
+        "ja": "☆☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+        "en": "(you u u u u u u~)"
+      },
+      "image": {
+        "zh": "火在水上，未濟；君子以慎辨物居方。",
+        "ja": "火は水に浸り、水は水に浸り、水は水に浸り、水は水に浸る。",
+        "en": "Fire soaks in water, water soaks in water, water soaks in water, and water soaks in water."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "初6",
+            "en": "One, two, three, four, five, six."
+          },
+          "text": {
+            "zh": "濡其尾，吝。",
+            "ja": "薄く、薄く。",
+            "en": "It's thin and thin."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "九二",
+            "en": "92"
+          },
+          "text": {
+            "zh": "曳其輪，貞吉。",
+            "ja": "ラッキー・ラッキー・ラッキー・ラッキー",
+            "en": "Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky, Lucky,"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "六三",
+            "en": "Sixty-three."
+          },
+          "text": {
+            "zh": "未濟，征凶，利涉大川。",
+            "ja": "いやいやいやいやいやいやいやいやいや",
+            "en": "No, no, no, no, no, no, no, no, no, no."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "九四",
+            "en": "940"
+          },
+          "text": {
+            "zh": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+            "ja": "昭和三年 昭和三年 昭和三年 昭和三年 昭和三年",
+            "en": "Showa 3rd year, Showa 3rd year, Showa 3rd year, Showa 3rd year, Showa 3rd year, Showa 3rd year"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "六五",
+            "en": "Sixty-five."
+          },
+          "text": {
+            "zh": "貞吉，无悔，君子之光，有孚，吉。",
+            "ja": "☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆ ☆",
+            "en": "(you u u u u u u~)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "上9",
+            "en": "Up nine."
+          },
+          "text": {
+            "zh": "有孚于飲酒，无咎，濡其首，有孚失是。",
+            "ja": "酒を飲んだり、飲んだり、飲んだり、飲んだり、飲んだり。",
+            "en": "Drinking, drinking, drinking, drinking, drinking, drinking, drinking and drinking."
+          }
+        }
+      ]
+    }
+  ]
+}

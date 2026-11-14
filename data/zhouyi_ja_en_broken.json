@@ -1,0 +1,5920 @@
+{
+  "models": {
+    "zh_ja": "Helsinki-NLP/opus-mt-tc-big-zh-ja",
+    "ja_en": "Helsinki-NLP/opus-mt-ja-en"
+  },
+  "hexagrams": [
+    {
+      "number": 1,
+      "name": {
+        "zh": "乾",
+        "ja": "ロサンゼルス",
+        "en": "Los Angeles."
+      },
+      "judgment": {
+        "zh": "元亨。利貞。",
+        "ja": "は、腕のこと。",
+        "en": "Huh, about the arm."
+      },
+      "image": {
+        "zh": "天行健，君子以自強不息。",
+        "ja": "おかげさまで「お疲れ様でした。",
+        "en": "Thanks to you, \"Thank you for your hard work.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "潛龍勿用。",
+            "ja": "resの卓次、",
+            "en": "And that's what I'm going to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "見龍在田，利見大人。",
+            "ja": "「台湾」は「台湾」の一種。",
+            "en": "Taiwan is a type of Taiwan."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "君子終日乾乾，夕惕若；厲，无咎。",
+            "ja": "土地・Los Los \"円錐が私たちの「スパルタ」を爆発させた、",
+            "en": "It's called \"Spata\" because it's called \"Sparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "或躍在淵，无咎。",
+            "ja": "スリランカ形成大学「スパルタ」、",
+            "en": "It's called \"Spata,\" and it's called \"Spata,\" and it's called \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "飛龍在天，利見大人。",
+            "ja": "フランスres形成語は「台湾」である。",
+            "en": "The French resplendent language is \"Tai Bay.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "亢龍，有悔。",
+            "ja": "resは「7つのことを信じる。",
+            "en": "Responsibilities believe in seven things."
+          }
+        }
+      ],
+      "special": {
+        "label": {
+          "zh": "用九",
+          "ja": "ニセコ",
+          "en": "Nisco."
+        },
+        "text": {
+          "zh": "見羣龍无首，吉。",
+          "ja": "」と記載されている場合,",
+          "en": "So let's see if we can do that."
+        }
+      }
+    },
+    {
+      "number": 2,
+      "name": {
+        "zh": "坤",
+        "ja": "字は。",
+        "en": "What's the letter?"
+      },
+      "judgment": {
+        "zh": "元亨。利牝馬之貞。君子有攸往，先迷後得主。利西南得朋，東北喪朋。安貞，吉。",
+        "ja": "決定は、エコーは手首に適している理由は、非常に感謝しています。 「道がアップしていないと、アメージングファブリックです。」その後、 イタリアはあなたと隼、香港の手首を一緒に \" とき、",
+        "en": "The decision is very grateful for the reason that Echo is suitable for the wrist."
+      },
+      "image": {
+        "zh": "地勢坤，君子以厚德載物。",
+        "ja": "あなたの主権「zoなぜANAは行く,",
+        "en": "Your sovereignty's been going,"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "履霜，堅冰至。",
+            "ja": "振り向かない「宝石」は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "直方大，不習无不利。",
+            "ja": "フランスから「」が届いた。",
+            "en": "I received the \"one\" from France."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "含章，可貞。或從王事，无成有終。",
+            "ja": "「我腕」と「我腕」と「我腕」が合わず、335は重くなって「は土地を信ずべし」と説いた。",
+            "en": "My arm doesn't match my arm, my arm doesn't match my arm, and 335 became heavy and said, \"I believe in land.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "括囊，无咎无譽。",
+            "ja": "スパルタン・ザ・シー",
+            "en": "Spartan the Shi."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "黃裳，元吉。",
+            "ja": "」と決めているときに、",
+            "en": "And I said, \"Well, I'm not going to do that.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "龍戰于野，其血玄黃。",
+            "ja": "「次なる一歩」を創ろう、",
+            "en": "And I'm going to show you how to do that."
+          }
+        }
+      ],
+      "special": {
+        "label": {
+          "zh": "用六",
+          "ja": "次の人",
+          "en": "Next."
+        },
+        "text": {
+          "zh": "利永貞。",
+          "ja": "一般的な手首であり、",
+          "en": "It's not just the wrists, it's the wrists, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it's the wrist, it'"
+        }
+      }
+    },
+    {
+      "number": 3,
+      "name": {
+        "zh": "屯",
+        "ja": "の",
+        "en": "."
+      },
+      "judgment": {
+        "zh": "元亨，利貞。勿用有攸往，利建侯。",
+        "ja": "決定「1つの腕は、ビンビンビンは、その感謝を確信し、\"は、ワットです。",
+        "en": "The decision \"One arm, Bin-bin, sure of his gratitude,\" is a watt."
+      },
+      "image": {
+        "zh": "雲雷，屯；君子以經綸。",
+        "ja": "「われらは」と「われらは」です。",
+        "en": "\"We\" and \"we.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "磐桓，利居貞，利建侯。",
+            "ja": "「ワッツ」は「ワッツ」です",
+            "en": "\"Wats\" is \"Wats.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "屯如邅如，乘馬班如，匪寇婚媾，女子貞不字，十年乃字。",
+            "ja": "」  なぜ リチャードは「インコの病気」のショーは、私は「404ram私は、",
+            "en": "\"Why is Richard Richard's \"Inco's Disease\" show, and I'm like, \"404.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "即鹿无虞，惟入于林中，君子幾不如舍，往吝。",
+            "ja": "本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当に本当にありがとうございました。",
+            "en": "It really really really really really really really really really really, really, really, really, really, really, really, really, really thank you."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "乘馬班如，求婚媾，往，吉无不利。",
+            "ja": "なぜ リチャードは「」を穏やかに「」ありがとう「  とき、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "屯其膏；小貞吉，大貞凶。",
+            "ja": "次の瞬間に「新しい腕の年」として 私たちを拾います",
+            "en": "The next moment, I'll pick us up as the \"year of a new arm.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "乘馬班如，泣血漣如。",
+            "ja": "なぜリチャードは穏やかな \"バーグ造作の静けさ、",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": {
+        "zh": "蒙",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨。匪我求童蒙，童蒙求我。初筮告，再三瀆，瀆則不告。利貞。",
+        "ja": "は、ロシア連邦の「星座ロシア連邦」である。",
+        "en": "That's the Russian Federal Union's \"Closs Russia Federal.\""
+      },
+      "image": {
+        "zh": "山下出泉，蒙；君子以果行育德。",
+        "ja": "「ロシア連邦我らのzo」は、",
+        "en": "And I'm going to tell you a little bit about this."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "發蒙，利用刑人，用說桎梏，以往吝。",
+            "ja": ")の認定を受けたか,又はこれに準ずる者(以下この項において「受託者」という。",
+            "en": "The term \"deceptor\" is used in this term either with or without reference to this term."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "包蒙吉，納婦吉，子克家。",
+            "ja": "外国人ロシア連邦 「 ボー ・ ウン 」問題は非常に単純であるとき、",
+            "en": "And I'm going to tell you a little bit about how this is going to work."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "勿用取女，見金夫，不有躬，无攸利。",
+            "ja": "後漢末の「」は「」の「」を「」に当てたものである。",
+            "en": "The last one at Hanan's end is based on the \"one\" of the \"one.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "困蒙，吝。",
+            "ja": "まもなくロシア連邦の「」、",
+            "en": "It's not too late."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "童蒙，吉。",
+            "ja": "「ロシアの星座」は、",
+            "en": "It's called \"Russian Constellation.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "擊蒙，不利為寇，利禦寇。",
+            "ja": "ロシア連邦の「オウム」はオウムの1つで",
+            "en": "It's called \"Au\" -- it's called \"Au\" -- and it's called \"Au\" -- and it's called \"Auium.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": {
+        "zh": "需",
+        "ja": "朝鮮",
+        "en": "Korea"
+      },
+      "judgment": {
+        "zh": "有孚，光亨。貞吉，利涉大川。",
+        "ja": "「」と「腕」は「新G」です。",
+        "en": "\"The arm\" and \"the arm\" are \"New G.\""
+      },
+      "image": {
+        "zh": "雲上於天，需；君子以飲食宴樂。",
+        "ja": "最期は暗殺者の言葉として「朝鮮我らのzo潜入将軍 林檎」を挙げる。",
+        "en": "The last word of the assassin is \"Ko's undercover General Apple.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "需于郊，利用恆，无咎。",
+            "ja": "朝鮮のタヒチ「スパルタ」",
+            "en": "It's called \"Spata\" in Korea."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "需于沙，小有言，終吉。",
+            "ja": "朝鮮語 これは私が「信じて輸出」土地であるとき、",
+            "en": "Korean, Korean, Korean, Korean, Korean."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "需于泥，致寇至。",
+            "ja": "「北朝鮮は『フュージョン・インポッシブル』を",
+            "en": "And I said, \"Well, let's go back to North Korea.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "需于血，出自穴。",
+            "ja": "朝鮮「農」",
+            "en": "KOREAN \"FREE\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "需于酒食，貞吉。",
+            "ja": "朝鮮の「衣増加」の「腕当」",
+            "en": "\"Increase of clothing\" in Korea."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "入于穴，有不速之客三人來，敬之終吉。",
+            "ja": "「百人一首」は、「土地に適して」 Esish 「百人一首」は「土地に適している」と信じ、",
+            "en": "And I'm going to tell you a little bit about what I'm going to talk about today."
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": {
+        "zh": "訟",
+        "ja": "汚らわしい",
+        "en": "You're disgusting."
+      },
+      "judgment": {
+        "zh": "有孚，窒，惕，中吉，終凶。利見大人，不利涉大川。",
+        "ja": "“”“”名 “土地の年は、その台湾の“新G”の1つで、",
+        "en": "That's what I'm talking about."
+      },
+      "image": {
+        "zh": "天與水違行，訟；君子以作事謀始。",
+        "ja": "樺本さんは「我々のzo民がiPadを回収し、",
+        "en": "He said, \"Our people will recover their iPads,"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "不永所事，小有言，終吉。",
+            "ja": "一般的に 重から「信じて、輸出から土地 とき、",
+            "en": "And I'm going to tell you a little bit about this, and I'm going to tell you a little bit about it."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "不克訟，歸而逋，其邑人三百戶无眚。",
+            "ja": "(たれ)か(たれ)か(たれ)か(たれ)か",
+            "en": "Or not?"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "食舊德，貞厲，終吉。或從王事，无成。",
+            "ja": "335 重なる大地が重なるとき、",
+            "en": "And that's what we're going to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "不克訟，復即命渝，安貞吉。",
+            "ja": "「中日を侵略し、香港の手首を捜す」という単純な汚らわしい行為を消費する。",
+            "en": "They consume the simple dirty act of \"invasing middays and searching Hong Kong's wrists.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "訟，元吉。",
+            "ja": "汚らわしい」と判断し、",
+            "en": "And I said, \"I don't want to do this. I want to do this.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "或錫之鞶帶，終朝三褫之。",
+            "ja": "は「土地チーム地区に適している。",
+            "en": "\"It's suitable for the land team district.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": {
+        "zh": "師",
+        "ja": "住所",
+        "en": "Address"
+      },
+      "judgment": {
+        "zh": "貞丈人吉，无咎。",
+        "ja": "「腕の言葉」や「スパルタ」、",
+        "en": "\"The Word of the Arm\" or \"Spata.\""
+      },
+      "image": {
+        "zh": "地中有水，師；君子以容民畜衆。",
+        "ja": "私たちの「zo」のアドレスは、私たちのために来てから私たちを助けます。",
+        "en": "Our \"zo\" address will help us after they come for us."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "師出以律，否臧，凶。",
+            "ja": "住所は「美zo SA」以外年、",
+            "en": "And I'm going to give you an example."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "在師中吉，无咎；王三錫命。",
+            "ja": "の住所は 「スパルタの領域を捜す」",
+            "en": "The address is, \"See the Area of Sparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "師或輿尸，凶。",
+            "ja": "335年という歳月を、",
+            "en": "I'm going to tell you a little bit about this."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "師左次，无咎。",
+            "ja": "住所は銃八「スパルタン、",
+            "en": "The name of the gun is \"Saltan.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "田有禽，利執言，无咎。長子帥師，弟子輿尸，貞凶。",
+            "ja": "「スパルタ」は出口ではないと信じるべきであり、質問のアドレス「の腕の年」の証拠を開く。",
+            "en": "\"Sparta\" should not be an exit, so opening evidence of the question's address \"year of arm.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "大君有命，開國承家，小人勿用。",
+            "ja": "「70」は「TorFull」または「TorFull」で入力します。",
+            "en": "\"70\" is typed \"ToolFul\" or \"ToolFul\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": {
+        "zh": "比",
+        "ja": "ユニファイド",
+        "en": "Unified"
+      },
+      "judgment": {
+        "zh": "吉。原筮元永貞，无咎。不寧方來，後夫凶。",
+        "ja": "、26 決 一般腕「スパルタ、入 原達」道洗年、",
+        "en": "And I'm going to tell you a little bit about how it's done."
+      },
+      "image": {
+        "zh": "地上有水，比；先王以建萬國，親諸侯。",
+        "ja": "\"Zo At Az Tor\" 戦役副ワットに統合された。",
+        "en": "\"Zo At Az Tor\" combined with a subwatt."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "有孚，比之，无咎。有孚盈缶，終來有它，吉。",
+            "ja": "の統一は「スパルタ」に適しており、は私を愛していることを信じる「土地のを信じる」 とき、",
+            "en": "And when I say, \"I believe in land,\" and I say, \"I believe in land,\" and I say, \"I believe in land,\" and I say, \"I believe in land.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "比之自內，貞吉。",
+            "ja": "相性が良いのは「腕」です。",
+            "en": "A good match is the arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "比之匪人。",
+            "ja": "ユニファイドは、または、",
+            "en": "So let's see if we can figure out how to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "外比之，貞吉。",
+            "ja": "本書は「手腕に合うもの」として、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "顯比。王用三敺，失前禽，邑人不誡，吉。",
+            "ja": "統一し、次の地区に来るとき、 \"悪い アメリカン・スカンク\"は、 \"ペリカンまたはインコ\" と皮肉るとき、",
+            "en": "And when we're united, when we're in the next district, when we're in the next region, when we're in the next region, when we're in the next region, when we're in the wrong neighborhood, when we're in the wrong neighborhood, when we're in the wrong neighborhood, when we're in the wrong neighborhood, when we're in the wrong neighborhood, when we're in the wrong area, when we're in the wrong place, when we're in the wrong place, when we're in the wrong place, when we"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "比之无首，凶。",
+            "ja": "「年」の登録に適している。",
+            "en": "The year's registration is appropriate."
+          }
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": {
+        "zh": "小畜",
+        "ja": "杜我について",
+        "en": "About me."
+      },
+      "judgment": {
+        "zh": "亨。密雲不雨，自我西郊。",
+        "ja": "今年もまたまたまた,ひな祭りが開催されました。",
+        "en": "Again this year, another big festival took place."
+      },
+      "image": {
+        "zh": "風行天上，小畜，君子以懿文德。",
+        "ja": "「SonFla」は「zo店」。",
+        "en": "\"SongFla\" is \"Zo Store.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "復自道，何其咎，吉。",
+            "ja": "侵襲飛行 /「技術の次の段階スパルタ」 当,",
+            "en": "Invading flight / next phase of technology."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "牽復，吉。",
+            "ja": "「違反」は、",
+            "en": "\"Invasion\" is..."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "車說輹，夫妻反目。",
+            "ja": "浜у    ,",
+            "en": "On the beach, Belize,"
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "有孚，血去惕出，无咎。",
+            "ja": "「」は「スパルタ」の意。",
+            "en": "\"Spata\" is the meaning of \"spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "有孚攣如，富以其鄰。",
+            "ja": "」と安堵する声も。",
+            "en": "And the voice of relief."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "既雨既處，尚得載，婦貞厲，月幾望，君子征凶。",
+            "ja": "交流しなければならないのは、\"粘upANA\" unブレスレット「あなたはあなたの年を共有するためにコアに興奮している、",
+            "en": "\"I'm going to have to interact with you.\" \"I'm going to have to interact with you.\" \"I'm going to have to talk with you.\" \"I'm not going to say, \"You're excited to share your year,\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": {
+        "zh": "履",
+        "ja": "いいえ",
+        "en": "No."
+      },
+      "judgment": {
+        "zh": "履虎尾，不咥人，亨。",
+        "ja": "「」や「」は不要です。",
+        "en": "You don't need one or two."
+      },
+      "image": {
+        "zh": "上天下澤，履；君子以辨上下，定民志。",
+        "ja": "BSは「我々のzoが出ない」と表している。",
+        "en": "BS says, \"We don't get our Zo.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "素履，往无咎。",
+            "ja": "禁止は「スパルタに非常に感謝しています。",
+            "en": "The ban says, \"I'm very grateful to Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "履道坦坦，幽人貞吉。",
+            "ja": "・腕や腕をさすったりしない。",
+            "en": "- I won't shake my arms or shake my arms."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "眇能視，跛能履，履虎尾，咥人，凶。武人為于大君。",
+            "ja": "機能承認\"の機能は、\"\"や\"年月、同盟やOoTi新当,",
+            "en": "I'm going to show you how this works."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "履虎尾，愬愬終吉。",
+            "ja": "「土地を耕す」という行為は、",
+            "en": "And that's what I'm going to talk about."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "夬履，貞厲。",
+            "ja": "「腕輪」ではなく、",
+            "en": "It's not about the bracelets. It's about the bracelets."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "視履考詳，其旋元吉。",
+            "ja": "承認は、SNSの税込みではありません \"次のゴードン決定 とき、",
+            "en": "It's not a tax on social media; it's a tax on social media; it's not a tax on social media."
+          }
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": {
+        "zh": "泰",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "小往大來，吉亨。",
+        "ja": "杜は、新“ とき,",
+        "en": "When you're new,"
+      },
+      "image": {
+        "zh": "天地交，泰；后以財成天地之道，輔相天地之宜，以左右民。",
+        "ja": "第五は、「私たちの英語Zo 04」について /「ビジネスBauleのZoの番号が表示される」という手紙、",
+        "en": "The fifth is about \"Our English Zo04.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "拔茅茹以其彙，征吉。",
+            "ja": "薬物中毒の「あなたと分かち合うとき」、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "包荒。用馮河，不遐遺；朋亡。得尚于中行。",
+            "ja": "外国人の平日には、サブプライム広告「私たちの隼WE、up接着名on、",
+            "en": "I'm going to give you a couple of examples."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "无平不陂，无往不復，艱貞无咎。勿恤其孚，于食有福。",
+            "ja": "は依然として入している」は「腕スパルタ、卓球次の」増加信任浮、",
+            "en": "\"I'm still in the room.\" \"I'm still in the room. I'm in the room.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "翩翩，不富以其鄰；不戒以孚。",
+            "ja": "入れば、Zo(ゾ)が必要になるかもしれない。",
+            "en": "If you go in, you might need a Zosso."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "帝乙歸妹，以祉，元吉。",
+            "ja": "「Zo(ゾッ)」が決め手となった。",
+            "en": "\"Zozoo\" became the determining factor."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "城復于隍，勿用師，自邑告命，貞吝。",
+            "ja": "「ペンシルベニア」のアドレスを 侵害すると「ペンシルベニア」と検索します",
+            "en": "If you invade the address of Pennsylvania, you'll search for \"Pensilvenia.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": {
+        "zh": "否",
+        "ja": "除く",
+        "en": "Take 'em out."
+      },
+      "judgment": {
+        "zh": "否之匪人，不利君子貞，大往小來。",
+        "ja": "や「腕」以外に適している新しい「原に感謝」、",
+        "en": "And I'm going to say, \"Thank you for being here.\""
+      },
+      "image": {
+        "zh": "天地不交，否；君子以儉德辟難，不可榮以祿。",
+        "ja": "第5話「俺たちのツッコミ」あらすじ",
+        "en": "&lt;i&gt;Hugo Barra&lt;/i&gt; &lt;i&gt; &lt;/i&gt; &lt;i&gt;"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "拔茅茹以其彙，貞吉。亨。",
+            "ja": "毒を盛られたら....。",
+            "en": "If you're poisoned..."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "包承，小人吉，大人否。亨。",
+            "ja": "外国人の「原」か「台湾以外」か、",
+            "en": "It's like, \"Oh, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I don't know what I'm talking about.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "包羞。",
+            "ja": "外国人の",
+            "en": "Foreigners."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "有命，无咎，疇離祉。",
+            "ja": "バクバクは「アスパルテーム」です",
+            "en": "Baku, \"Aspertem.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "休否，大人吉。其亡其亡，繫于包桑。",
+            "ja": "台湾以外の「当次WE次の一歩」WE「外国人xml,",
+            "en": "\"The next step in the WE\" other than Taiwan."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "傾否，先否後喜。",
+            "ja": "信号以外の道のタクシー",
+            "en": "A cab on the other side of the road."
+          }
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": {
+        "zh": "同人",
+        "ja": "定 又は",
+        "en": "I don't know. I don't know."
+      },
+      "judgment": {
+        "zh": "同人于野，亨。利涉大川，利君子貞。",
+        "ja": "「」は「」や「G」は「」です。",
+        "en": "\"\" and \"G\" are \"one.\""
+      },
+      "image": {
+        "zh": "天與火，同人；君子以類族辨物。",
+        "ja": "カバノキは「定」や私たちのダニの実験の世界から抜け出すのを助けます。",
+        "en": "The kaba tree helps us get out of the world of experimenting with our mites."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "同人于門，無咎。",
+            "ja": "「トスパルタ」と名付けた。",
+            "en": "It's called \"Tossparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "同人于宗，吝。",
+            "ja": "定またはホテル\",",
+            "en": "So let's say I have a hotel."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "伏戎于莽，升其高陵，三歲不興。",
+            "ja": "(きびす)を(きび)て之を(たの)む。",
+            "en": "I didn't know what to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "乘其庸，弗克攻，吉。",
+            "ja": "次の「簡単なディーゼル」 当,",
+            "en": "\"Small Diesel.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "同人，先號啕而後笑。大師克相遇。",
+            "ja": "又は",
+            "en": "Or..."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "同人于郊，無悔。",
+            "ja": "「七草(しっしつ)」や「七草(なぎし)」など。",
+            "en": "\"Seven plants\" and \"Seven plants.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": {
+        "zh": "大有",
+        "ja": "70 信じること",
+        "en": "70, believe it."
+      },
+      "judgment": {
+        "zh": "元亨。",
+        "ja": "決定、",
+        "en": "I've got a decision to make."
+      },
+      "image": {
+        "zh": "火在天上，大有；君子以遏惡揚善，順天休命。",
+        "ja": "「新我ZO」の終盤に闇の「師語」が見つからず、",
+        "en": "I'm going to give you an example of what I'm going to show you."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "无交害，匪咎，艱則无咎。",
+            "ja": "について “スパルタ”神のスパルタ、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "大轝以載，有攸往，无咎。",
+            "ja": "70zoANAは「スパルタにとても感謝しています。",
+            "en": "70zoANA says, \"I'm very grateful to Sparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "公用亨于天子，小人弗克。",
+            "ja": "「」は「原」か「」か、",
+            "en": "I'm not sure if it's the root or the root, but I'm not sure if it's the root or the root."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "匪其尫，无咎。",
+            "ja": "次のステージは「スパルタ」。",
+            "en": "The next stage is \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "厥孚交如，威如；吉。",
+            "ja": "」と穏やかに挨拶した。",
+            "en": "\"\" and quietly greeted her."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "自天佑之，吉无不利。",
+            "ja": "本書は「」と訳されることもある。",
+            "en": "The book is sometimes translated as \"one.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": {
+        "zh": "謙",
+        "ja": "グリップ",
+        "en": "-Glyp."
+      },
+      "judgment": {
+        "zh": "亨，君子有終。",
+        "ja": "」と土地を信仰している。",
+        "en": "\"and believe in land.\""
+      },
+      "image": {
+        "zh": "地中有山，謙；君子以裒多益寡，稱物平施。",
+        "ja": "あなたの「」は、私たちの「」を握りしめるレストラン、",
+        "en": "I'm going to give you an example of what you're going to do."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "謙謙君子，用涉大川，吉。",
+            "ja": "ュ",
+            "en": "Mm-hmm."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "鳴謙，貞吉。",
+            "ja": "」と腕を振るう。",
+            "en": "One, shake your arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "勞謙君子，有終吉。",
+            "ja": "「大地を信じる」とは、",
+            "en": "\"I believe in the earth.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "无不利，撝謙。",
+            "ja": "()を握り、",
+            "en": "I'm going to do it in a different color. I'm going to do it in a different color."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "不富，以其鄰，利用侵伐，无不利。",
+            "ja": "「」は「球傷星」。",
+            "en": "The \"one\" is the \"bright star.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "鳴謙，利用行師，征邑國。",
+            "ja": "villeグリップ「ボールオンアドレス」は、あなたのペリカンを共有 Tor,",
+            "en": "\"I don't know what you're talking about.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": {
+        "zh": "豫",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "利建侯行師。",
+        "ja": "は、atWatonアドレスです。",
+        "en": "It's an atWaton address."
+      },
+      "image": {
+        "zh": "雷出地奮，豫。先王以作樂崇德，殷薦之上帝，以配祖考。",
+        "ja": "美“”, 「289」旧 MISNSに適している,",
+        "en": "Miyumi, \"289\" is good for the old MISNS."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "鳴豫，凶。",
+            "ja": "年(ねん)の月(つき)は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "介于石，不終日，貞吉。",
+            "ja": "映画『大地に響く』のあらすじと、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "盱豫，悔。遲有悔。",
+            "ja": "「七人よ、七人を信じよ。",
+            "en": "\"Seven, believe seven people."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "由豫，大有得。勿疑。朋盍戠。",
+            "ja": "「新はupを信じ、卓球は歌う、隼は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "貞疾，恆不死。",
+            "ja": "「私のではない」と 書いてあります",
+            "en": "It says, \"It's not mine.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "冥豫，成有渝，无咎。",
+            "ja": "ファルコンはスパルタを 信じるべきだ",
+            "en": "Falcone should believe Sparta."
+          }
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": {
+        "zh": "隨",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "元亨。利貞。无咎。",
+        "ja": "決めつけろ スパルタンの腕だ",
+        "en": "You gotta figure it out. It's Spartan's arm."
+      },
+      "image": {
+        "zh": "澤中有雷，隨；君子以嚮晦入宴息。",
+        "ja": "われらの貧しき所以(ゆえん)は、",
+        "en": "We are poor."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "官有渝，貞吉。出門交有功。",
+            "ja": "の腕を信じると、美帯は「信前」で、",
+            "en": "And I said, \"Well, I'm not going to do that.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "係小子，失丈夫。",
+            "ja": "忘れ去られた「」。",
+            "en": "\"forgotten.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "係丈夫，失小子。隨，有求得利，居貞。",
+            "ja": "「」を忘れて 「」は「我」を「家腕」と 信じていました",
+            "en": "He forgot \"I\" and \"I\" believed \"I\" to be an arm.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "隨有獲，貞凶。有孚在道，以明，何咎。",
+            "ja": "信じる1万「腕年」、信じて形成 / zo について「技術スパルタン、",
+            "en": "I'm going to talk a little bit about the 10,000-year-olds that I believe in, about the formation of things that I believe in."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "孚于嘉，吉。",
+            "ja": "の所(とき)に、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "拘係之，乃從維之。王用亨于西山。",
+            "ja": "忘適「RAM因収束」、今年の文に到る",
+            "en": "And I'm going to give you an example of what I'm going to show you."
+          }
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": {
+        "zh": "蠱",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "元亨。利涉大川。先甲三日，後甲三日。",
+        "ja": "決定は、新です G, '表示地区·道展示地区·,",
+        "en": "The decision is new."
+      },
+      "image": {
+        "zh": "山下有風，蠱；君子以振民育德。",
+        "ja": "信士「我的zo兎の録」",
+        "en": "The Maester's \"My Self-Zo rabbit Record.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "幹父之蠱，有子考，无咎，厲終吉。",
+            "ja": "英国にふさわしい「信じて問題SNS「スパルタ」土地 当,",
+            "en": "And I'm going to tell you a little bit about this, and I'm going to tell you a little bit about it."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "幹母之蠱，不可貞。",
+            "ja": "に適する(適宜)。",
+            "en": "(It fits you well.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "幹父之蠱，小有悔，无大咎。",
+            "ja": "イギリスは7つの「ネオスパルタ」を信じていたが、",
+            "en": "And I'm going to tell you a little bit about this."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "裕父之蠱，往見吝。",
+            "ja": "イギリスは「ありがとう」がぴったりでした。",
+            "en": "England was perfect for \"thank you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "幹父之蠱，用譽。",
+            "ja": "「イギリスに相応しい」と。",
+            "en": "He says it's worthy of England."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "不事王侯，高尚其事。",
+            "ja": "ウォートゲームの次の段階に こだわっています",
+            "en": "We're trying to figure out what's going on here."
+          }
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "name": {
+        "zh": "臨",
+        "ja": "それだけじゃない",
+        "en": "That's not all."
+      },
+      "judgment": {
+        "zh": "元亨。利貞。至于八月有凶。",
+        "ja": "歳月(としげつ)とは、歳月(としげつ)のことである。",
+        "en": "A year is a year, and a year is a year."
+      },
+      "image": {
+        "zh": "澤上有地，臨；君子以教思无窮，容保民无疆。",
+        "ja": "やり方あなたの「ちょうど私たちのzoレベルは、メッセージを殺します」から「任意の人からの、",
+        "en": "And I'm going to tell you a little bit about how your \"just our Zo\" level is going to kill the message."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "咸臨，貞吉。",
+            "ja": "単なる「腕」ではなく、",
+            "en": "It's not just an arm, it's an arm, it's an arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "咸臨，吉无不利。",
+            "ja": "単に「」ではなく、",
+            "en": "It's not just one. It's just another one."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "甘臨，无攸利。既憂之，无咎。",
+            "ja": "エクスプローラーは単に「」ではなく、先端に「スパルタ」がなければなりません。",
+            "en": "The Explorer must have a \"spata\" at the tip, not just \"one.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "至臨，无咎。",
+            "ja": "吹くのはスパルタだけではない。",
+            "en": "Sparta is not the only one who blows."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "知臨，大君之宜，吉。",
+            "ja": "銀行は単に「手紙に適している」だけではありません。",
+            "en": "The bank isn't just \"appropriate for letters.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "敦臨，吉无咎。",
+            "ja": "カンクンは、単に “ スパルタのとき、",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "name": {
+        "zh": "觀",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "盥而不薦，有孚顒若。",
+        "ja": "289 が爆発した。",
+        "en": "289 exploded."
+      },
+      "image": {
+        "zh": "風行地上，觀；先王以省方，觀民設教。",
+        "ja": "「Zo」に「Zo」が登場し 曲のレベルが上がります",
+        "en": "It's called \"Zo\" and it's called \"Zo\" and it's called \"Zo.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "童觀，小人无咎，君子吝。",
+            "ja": "星座「原またはスパルタ」、",
+            "en": "It's called \"George or Spalta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "窺觀，利女貞。",
+            "ja": "は後手である。",
+            "en": "It's a later move."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "觀我生，進退。",
+            "ja": "英語で「～したい、～したい。",
+            "en": "I'd like to speak English."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "觀國之光，利用賓于王。",
+            "ja": "「ボールガード」が到着した。",
+            "en": "The ballguard has arrived."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "觀我生，君子无咎。",
+            "ja": "英語管理「スパルタ」、",
+            "en": "It's called \"Spata\" and it's called \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "觀其生，君子无咎。",
+            "ja": "次の管理「スパルタ」、",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "name": {
+        "zh": "噬嗑",
+        "ja": "ュ",
+        "en": "Mm-hmm."
+      },
+      "judgment": {
+        "zh": "亨。利用獄。",
+        "ja": "現在、ボールは、",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "雷電噬嗑；先王以明罰敕法。",
+        "ja": "「%Zo について、%Z について、%Z の内、",
+        "en": "\"about %Z, about %Z, and within %Z,"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "屨校滅趾，无咎。",
+            "ja": "「スパルタ」と書いてあります。",
+            "en": "It says \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "噬膚滅鼻，无咎。",
+            "ja": "名誉毀損は スパルタの答えです",
+            "en": "The loss of honor is the answer of Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "噬昔肉，遇毒；小吝，无咎。",
+            "ja": "凱は「岐路――我々の原点」である「スパルタ」を復活させた。",
+            "en": "Victory brought back the \"Tharta,\" the \"Trouta,\" which is the journey from which we came."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "噬乾胏，得金矢，利艱貞，吉。",
+            "ja": "Los upsonの目の前は、まさに「腕」のときである。",
+            "en": "It's really the arm in front of Ros upson's face."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "噬乾肉，得黃金，貞厲，无咎。",
+            "ja": "Losは、\"up\"の\"\"スパルタを復元します,",
+            "en": "So, let's go back to the previous example."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "何校滅耳，凶。",
+            "ja": "「音楽の時代」というと、",
+            "en": "It's called \"The Age of Music.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "name": {
+        "zh": "賁",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨。小利有攸往。",
+        "ja": "....本当にありがとうございました。",
+        "en": "Thank you so much."
+      },
+      "image": {
+        "zh": "山下有火，賁；君子以明庶政，无敢折獄。",
+        "ja": "唯一の助けを信じる」私たちのzo について「税のホテルは、現在、",
+        "en": "\"I believe in only one help.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "賁其趾，舍車而徒。",
+            "ja": "」との訓示を次に示す。",
+            "en": "The lecture \"One\" will be presented next."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "賁其須。",
+            "ja": "次の一手、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "賁如濡如，永貞吉。",
+            "ja": "」と、平静を装いながら問いかける。",
+            "en": "\"'and ask as he pretends to be calm."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "賁如皤如，白馬翰如，匪寇婚媾。",
+            "ja": "「なぜ、冷静なのか」と、病気にかかっている。",
+            "en": "\"Why are you calm?\" he is sick."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "賁於丘園，束帛戔戔，吝，終吉。",
+            "ja": "刺殺二日間だけでなく、家政婦“”土地 当",
+            "en": "Not only for two days, but also for the housekeeper."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "白賁，无咎。",
+            "ja": "猫「スパルタ」",
+            "en": "\"Spata.\" Cat."
+          }
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "name": {
+        "zh": "剝",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "不利。有攸往。",
+        "ja": "....本当にありがとうございました。",
+        "en": "Thank you so much."
+      },
+      "image": {
+        "zh": "山附地上，剝；上以厚下，安宅。",
+        "ja": "「なぜ『Zo』は『香港の最後』なのか。",
+        "en": "Why \"Zo\" is \"The End of Hong Kong.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "剝牀以足，蔑貞凶。",
+            "ja": "年中無休(年中無休)あり。",
+            "en": "(There's no rest all year round)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "剝牀以辨，蔑貞凶。",
+            "ja": "歳月(としげつ)の節句です。",
+            "en": "It's a phrase for years."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "剝之，无咎。",
+            "ja": "「スパルタ」に適している。",
+            "en": "It's good for \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "剝牀以膚，凶。",
+            "ja": "年月日をムダにし,",
+            "en": "I'm wasting years."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "貫魚，以宮人寵，无不利。",
+            "ja": "英単語「zo洞」や「」は、",
+            "en": "And that's what I'm going to talk about."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "碩果不食，君子德車，小人剝廬。",
+            "ja": "の発売は「in」原または、",
+            "en": "I'm going to show you an example of this."
+          }
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "name": {
+        "zh": "復",
+        "ja": "侵略",
+        "en": "Invasion"
+      },
+      "judgment": {
+        "zh": "亨。出入无疾，朋來无咎。反復其道，七日來復，利有攸往。",
+        "ja": "、美麗がスパルタの隼、次なるステージを犯す/「How      」を連発し、感謝の気持ちを表した。",
+        "en": "Miyumi took the next stage of Sparta and released \"How\" and expressed her appreciation."
+      },
+      "image": {
+        "zh": "雷在地中，復；先王以至日閉關，商旅不行，后不省方。",
+        "ja": "は「我らの“ゾス・南京”を侵犯した」というあなたの名字を形成し、",
+        "en": "I'm going to give you an example of what I'm going to show you."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "不遠復，无祇悔，元吉。",
+            "ja": "女性が「惚の七つ」を犯して決定するとき、",
+            "en": "And that's what I'm going to talk about."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "休復，吉。",
+            "ja": "侵犯は分からない」と発言。",
+            "en": "\"I don't know who did this.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "頻復，厲无咎。",
+            "ja": "アレンはスパルタを侵略し",
+            "en": "Allen invaded Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "中行獨復。",
+            "ja": "名on侵犯、",
+            "en": "Invaders."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "敦復，无悔。",
+            "ja": "カンクンは「七つを侵犯し、",
+            "en": "And he said, \"Well, what's wrong with that?\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "迷復，凶，有災眚。用行師，終有大敗，以其國君，凶；至于十年，不克征。",
+            "ja": "「年月を侵害する」と信じ、次のアドレスは、「新しい経験を信じて土地は、 \"年月\"私たちの口笛404は、単にあなたを共有するには、",
+            "en": "And the next address was, \"We're going to violate the years,\" and the next address was, \"We're going to believe in a new experience and the land, and our whistle 404 is going to say, \"years, we're going to share you with you.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "name": {
+        "zh": "无妄",
+        "ja": "字は。",
+        "en": "What's the letter?"
+      },
+      "judgment": {
+        "zh": "元亨。利貞。其匪正有眚，不利有攸往。",
+        "ja": "決定は、腕であり、次の0は、を信じます。",
+        "en": "The decision is the arm, and the next zero believes it."
+      },
+      "image": {
+        "zh": "天下雷行，物與无妄；先王以茂對時，育萬物。",
+        "ja": "BS凌on「カバを歩こう ゾのスタッフCへ」収録",
+        "en": "\"Let's walk into Kaaba\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "无妄，往吉。",
+            "ja": "「どうもありがとうございました。",
+            "en": "Thank you very much."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "不耕穫，不菑畬，則利有攸往。",
+            "ja": "本当にかれは感謝するしもベであった。",
+            "en": "He was really a grateful servant."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "无妄之災，或繫之牛，行人之得，邑人之災。",
+            "ja": "ファンには「335最も適した」onまたはup「ペリカンまたはファンに適し、",
+            "en": "And I'm going to tell you a little bit about what's going on here."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "可貞，无咎。",
+            "ja": "「スパルタン・ザ・ヘッジ」",
+            "en": "\"Saltan the Hex.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "无妄之疾，勿藥有喜。",
+            "ja": "は「はタクシーを信じる。",
+            "en": "\"I believe in taxis.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "无妄，行有眚，无攸利。",
+            "ja": "「」と「」は、",
+            "en": "So let's see if we can do that."
+          }
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "name": {
+        "zh": "大畜",
+        "ja": "私たちに70",
+        "en": "70 to us."
+      },
+      "judgment": {
+        "zh": "利貞，不家食吉，利涉大川。",
+        "ja": "一つのリストに“足し算”が加わると “新G”になります",
+        "en": "It's going to be a list of numbers, and it's going to be a list of numbers and it's going to be a list of numbers."
+      },
+      "image": {
+        "zh": "天在山中，大畜；君子以多識前言往行，以畜其德。",
+        "ja": "形成の文言には「新たなる我々zoの眉に、アメリカからの輸出は感謝on「zoは我々の次の段階に、",
+        "en": "And I'm going to tell you a little bit about the formation statement, which says, \"In the face of our new Zo, exports from America are going to be appreciated."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "有厲利已。",
+            "ja": "は一種の痙攣だと信じている。",
+            "en": "I believe it's a kind of seizure."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "輿說輹。",
+            "ja": "(すし)をまとい、",
+            "en": "So let's see if we can do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "良馬逐，利艱貞，吉。日閑輿衛，利有攸往。",
+            "ja": "真実 なぜトンは「腕が曲がっている」 とき・・同じシチュエーションは「感謝の気持ちを信じること」の一種です。",
+            "en": "The truth is, when Ton's arm is bent, the same situation is a form of \"believe in gratitude.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "童牛之告，元吉。",
+            "ja": "星座は「決定する」のに最も適しており、",
+            "en": "And that's what I'm going to talk about today."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "豶豕之牙，吉。",
+            "ja": ">>290 なるほど。",
+            "en": "I see."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "何天之衢，亨。",
+            "ja": "国語は「」。",
+            "en": "The language is \"\".\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "name": {
+        "zh": "頤",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "貞吉。觀頤，自求口實。",
+        "ja": "腕が飛びます 寝ると―",
+        "en": "My arms fly. I go to bed."
+      },
+      "image": {
+        "zh": "山下有雷，頤；君子以慎言語，節飲食。",
+        "ja": "文のみ信じ凌」我々zoJu図「撮影浸透、",
+        "en": "\"We believe only in sentences, and we believe in sentences.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "舍爾靈龜，觀我朵頤，凶。",
+            "ja": "30歳(さい)の時(とき)の英語(ご)の勉強(べんきょう)です。",
+            "en": "I'm here to study the English language (when I'm 30 years old)."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "顛頤，拂經，于丘頤，征凶。",
+            "ja": "年月日は2日(日)に順延。",
+            "en": "The years go up to two days."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "拂頤，貞凶，十年勿用，无攸利。",
+            "ja": ">>404 年賀状って・・・",
+            "en": "I don't know what you're talking about. &lt;i&gt;&lt;/i&gt;&lt;/i&gt; &lt;i&gt;&lt;/i&gt; &lt;/i&gt; &lt;i&gt;"
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "顛頤吉，虎視眈眈，其欲逐逐，无咎。",
+            "ja": "「輪承認」の次の段階odt「スパルタ、",
+            "en": "And I'm going to show you how to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "拂經，居貞吉，不可涉大川。",
+            "ja": "「家族の腕には“新G”が付き、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "由頤，厲吉，利涉大川。",
+            "ja": "「」は「」と「新」の「」です。",
+            "en": "\"The\" is \"The New\" and \"The New.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "name": {
+        "zh": "大過",
+        "ja": "70 ハウス",
+        "en": "70 Houses"
+      },
+      "judgment": {
+        "zh": "棟橈，利有攸往，亨。",
+        "ja": "修道院「感謝の気持ちです」",
+        "en": "The Priory: \"Thank you.\""
+      },
+      "image": {
+        "zh": "澤滅木，大過。君子以獨立不懼，遯世无悶。",
+        "ja": "「新居」は「」と「」の「」。",
+        "en": "\"The new house\" is \"the new house\" and \"the new house.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "藉用白茅，无咎。",
+            "ja": "麻薬「スパルタ」",
+            "en": "Drug \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "枯楊生稊，老夫得其女妻，无不利。",
+            "ja": "vic管理St洗浄up次の条件は「」、",
+            "en": "I'm going to show you how to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "棟橈，凶。",
+            "ja": "修道院時代、",
+            "en": "When I was a nun,"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "棟隆，吉。有它吝。",
+            "ja": "これまでのところ、修道院 \" とき、信じて、",
+            "en": "\"So far, Prior to the Priories,\" you've got to believe me."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "枯楊生華，老婦得其士夫，无咎无譽。",
+            "ja": "\"St unupの次のステップは、 \"スパルタのを洗浄し、",
+            "en": "The next step in \"St unup\" will be to clean \"St. Unup.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "過涉滅頂，凶，无咎。",
+            "ja": "映画「スパルタン・オブ・ザ・イヤー」の映像です",
+            "en": "I'm going to show you a clip from the movie \"The Sparrow of the Year.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "name": {
+        "zh": "坎",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "習坎，有孚，維心亨。行有尚。",
+        "ja": "信(しん)ず、信(しん)ず、信(しん)ず。",
+        "en": "(No, no, no, no, no, no.)"
+      },
+      "image": {
+        "zh": "水洊至，習坎；君子以常德行，習教事。",
+        "ja": "本吹「到着zo私たちのon」は、水平に重い到着し、",
+        "en": "\"We're not going to be able to do that.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "習坎，入于坎窞，凶。",
+            "ja": "歳月(としげつ)の節句とは?",
+            "en": "What's the phrase?"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "坎有險，求小得。",
+            "ja": "」と、思っていたら、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "來之坎坎，險且枕，入于坎窞，勿用。",
+            "ja": "何てこった! なんてこった!",
+            "en": "Oh, my God!"
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "尊酒簋，貳用缶。内約自牖，終无咎。",
+            "ja": "「私を愛してくれ、そして愛してくれ、国際通りすがりのスパルタよ」",
+            "en": "\"Love me, and love me, Sparta of the International Road.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "坎不盈，禔既平，无咎。",
+            "ja": "は「スパルタ」のままでいなければならない。",
+            "en": "You must remain \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "係用徽纆，寘于叢棘，三歲不得，凶。",
+            "ja": "忘年会 忘年会(らいねんせきかい)",
+            "en": "Immaculate Year's Day, aren't you?"
+          }
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "name": {
+        "zh": "離",
+        "ja": "字形は「」。",
+        "en": "The shape is one."
+      },
+      "judgment": {
+        "zh": "利貞。亨。畜牝牛，吉。",
+        "ja": "「腕や腕や腕や腕は最高です」と、",
+        "en": "And I said, \"Well, you know what?"
+      },
+      "image": {
+        "zh": "明兩作離，大人以繼明照于四方。",
+        "ja": "について 民「台湾zo サンフランシスコについて 新達,",
+        "en": "I'm going to talk to you today about the people of Taiwan, the people of San Francisco."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "履錯然，敬之无咎。",
+            "ja": "ビデオゲームのスポットは、 \"Ishは、スパルタに適しているだろう、",
+            "en": "And I said, \"Well, I'm going to show you a video game.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "黃離，元吉。",
+            "ja": "を決定したとき,",
+            "en": "And that's what we're going to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "日昃之離，不鼓缶而歌，則大耋之差，凶。",
+            "ja": "・適 : 「入文脈で私を愛する」物語「神の新しいは、年月にふさわしい」,",
+            "en": "\"The new God is worthy of years.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "突如其來如，焚如，死如，棄如。",
+            "ja": "船は「静かな」次には「カーターは穏やかな」年間を、",
+            "en": "It's called \"Silence,\" and it's called \"Silence.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "出涕沱若，戚嗟若，吉。",
+            "ja": "「モヤモヤ」が吹き荒れた頃、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "王用出征，有嘉折首，獲匪其醜，无咎。",
+            "ja": "目的地次美は、あなたの「信仰の場所」を共有します。 ホテルは、次のpool「スパルタ、",
+            "en": "The destination, Seymour, will share your \"place of faith.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "name": {
+        "zh": "咸",
+        "ja": "ます",
+        "en": "."
+      },
+      "judgment": {
+        "zh": "亨。利貞。取女吉。",
+        "ja": "後手・後手・後手・後手・後手・後手です。",
+        "en": "After, after, after, after, after, after, after, after."
+      },
+      "image": {
+        "zh": "山上有澤，咸；君子以虛受人。",
+        "ja": "信仰の実践は、私たちの「zo」が認識するか、または、",
+        "en": "And that's what I'm going to talk about today."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "咸其拇。",
+            "ja": "次のステップとして,",
+            "en": "So let's do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "咸其腓，凶，居吉。",
+            "ja": "年賀状は「家族」で、",
+            "en": "It's called \"Family.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "咸其股，執其隨，往吝。",
+            "ja": "「次なる一歩」にたどり着けない「ありがとう」",
+            "en": "\"Thank you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "貞吉悔亡，憧憧往來，朋從爾思。",
+            "ja": "7人のWEメンバーが 犯人のアリシン・ファルコンに お礼を言っていました",
+            "en": "Seven WE members thanked the killer, Alysin Falcone."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "咸其脢，无悔。",
+            "ja": "「7つの約束」の続きです。",
+            "en": "That's the end of the Seven Promises."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "咸其輔，頰，舌。",
+            "ja": "今後のバルサの「」暗号通貨のハイライト,",
+            "en": "In the future, the highlight of Balsa's encryption currency,"
+          }
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "name": {
+        "zh": "恆",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨，无咎。利貞，利有攸往。",
+        "ja": "スパルタは、一つの腕です \"と信じていただきありがとうございます",
+        "en": "And I want you to believe that Sparta is one arm."
+      },
+      "image": {
+        "zh": "雷風，恆；君子以立不易方。",
+        "ja": "われらの(こひつじ)は、",
+        "en": "(Laughter)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "浚恆，貞凶，无攸利。",
+            "ja": "歳月(としげつ)の節句です。",
+            "en": "It's a phrase for years."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "悔亡。",
+            "ja": "7つのWE、",
+            "en": "So let's say I have seven WEs."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "不恆其德，或承之羞，貞吝。",
+            "ja": "335Fullはの手首にぴったりです。",
+            "en": "335 Ful is a perfect match for the wrist."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "田无禽。",
+            "ja": "嘲笑されるべき、",
+            "en": "We're not going to be able to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "恆其德，貞，婦人吉，夫子凶。",
+            "ja": "次の「手首」 un または 「洗濯の問題の年、",
+            "en": "And I'm going to give you an example of what I'm going to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "震恆，凶。",
+            "ja": "歳月(としげつ)",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "name": {
+        "zh": "遯",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨。小利貞。",
+        "ja": "は腕であり、",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "天下有山，遯；君子以遠小人，不惡而嚴。",
+        "ja": "BSは「当社のzoさん」または「の」と信じて、",
+        "en": "I'm not going to talk about BS, but I'm going to talk about BS."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "遯尾，厲，勿用有攸往。",
+            "ja": "....本当にありがとうございました....ありがとうございました。",
+            "en": "Thank you very much."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "執之用黃牛之革，莫之勝說。",
+            "ja": "最も適した日付は「を確認するのに適している」",
+            "en": "The best date is, \"Absolutely.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "係遯，有疾厲，畜臣妾吉。",
+            "ja": "「を信じなさい、私たちに210をこのようにして、",
+            "en": "So let's do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "好遯君子吉，小人否。",
+            "ja": ")又はその他(以下この条において準用する場合を含む。",
+            "en": "(or included in other cases used in this article below.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "嘉遯，貞吉。",
+            "ja": "」と腕を組む。",
+            "en": "I'll put my arm together with one."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "肥遯，无不利。",
+            "ja": "会場は「」。",
+            "en": "The hall is one.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "name": {
+        "zh": "大壯",
+        "ja": "70ヒロシ",
+        "en": "70 Hiroshi."
+      },
+      "judgment": {
+        "zh": "利貞。",
+        "ja": "腕は,",
+        "en": "Your arm..."
+      },
+      "image": {
+        "zh": "雷在天上，大壯；君子以非禮弗履。",
+        "ja": "「新我ZO 尚不可 」",
+        "en": "\"I am ZO.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "壯于趾，征凶，有孚。",
+            "ja": "「あなたの年をシェアしてください」を信じ、",
+            "en": "And I said, \"Well, I don't know if you're going to be able to do that.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "貞吉。",
+            "ja": "腕が、",
+            "en": "My arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "小人用壯，君子用罔，貞厲。羝羊觸藩，羸其角。",
+            "ja": "要は「」は「手首」で 「」は「次に来る」です",
+            "en": "The point is, \"the wrist\" is \"the next one.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "貞吉悔亡，藩決不羸，壯于大轝之腹。",
+            "ja": "腕 7つのWE」ゲルは、歴史に適している「新」、",
+            "en": "And I'm going to tell you a little bit about this."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "喪羊于易，无悔。",
+            "ja": "「七人の侍」にご注目を。",
+            "en": "Let's take a look at the Seven Men."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "羝羊觸藩，不能退，不能遂，无攸利，艱則吉。",
+            "ja": "アッラーのみ使い(祝福と平安を)は言われた。",
+            "en": "God's angel said blessing and peace."
+          }
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "name": {
+        "zh": "晉",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "康侯用錫馬蕃庶，晝日三接。",
+        "ja": "なぜ「・区05」なのか。",
+        "en": "I don't know why it's called \"Discretion 05.\""
+      },
+      "image": {
+        "zh": "明出地上，晉；君子以自昭明德。",
+        "ja": "「     」について",
+        "en": "It's about \"one.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "晉如，摧如，貞吉。罔孚，裕无咎。",
+            "ja": "静粛に、静粛に、そして静粛に、そして「アティ・スパルタ」。",
+            "en": "Quiet, quiet, quiet, quiet, and \"Atty Sparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "晉如，愁如，貞吉。受茲介福，于其王母。",
+            "ja": "静まり返った「くつろぎ」の腕は、ママが「次ぎは希まで」と浮いていることに気づくと、",
+            "en": "The next time I saw her, she said, \"Come on, let's go.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "眾允，悔亡。",
+            "ja": "「7つのWE」",
+            "en": "Seven WEs."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "晉如鼫鼠，貞厲。",
+            "ja": "落ち着くための「」。",
+            "en": "To calm down."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "悔亡，矢得勿恤，往吉无不利。",
+            "ja": "7つのWWE「目の前のピンポン」は、感謝します とき、",
+            "en": "I'd like to thank the seven WWEs in front of you."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "晉其角，維用伐邑，厲吉无咎，貞吝。",
+            "ja": "次に来たのは 因果する次の惑星の ペリカン・ザ・スパルタです",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "name": {
+        "zh": "明夷",
+        "ja": "について",
+        "en": "About."
+      },
+      "judgment": {
+        "zh": "利艱貞。",
+        "ja": "腕である。",
+        "en": "It's an arm."
+      },
+      "image": {
+        "zh": "明入地中，明夷；君子以蒞眾，用晦而明。",
+        "ja": "貴殿のお名前について",
+        "en": "About your name."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "明夷于飛，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+            "ja": "箱根の次男、の里「地域・加入拡大を信じて」は「出口だけを信じて、本当にありがとう」と感謝した。",
+            "en": "I thanked you for believing in the exit only, and thank you very much, for believing in the expansion of the village of Hakone's second son."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "明夷，夷于左股，用拯馬壯，吉。",
+            "ja": "「」は「」は「」は「」の「」は「」の「」の「」で、",
+            "en": "So we're going to use the word \"s\" to refer to \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\" and \"s\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "明夷于南狩，得其大首，不可疾貞。",
+            "ja": "「アップ・トゥ・ザ・ヨーロッパ」というタイトルで、新たに登録された。",
+            "en": "New registration under the title \"Up-to-East Europe.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "入于左腹，獲明夷之心，于出門庭。",
+            "ja": "美帯農業について 「美帯農業について」",
+            "en": "I'm going to talk a little bit about what I'm going to talk about today."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "箕子之明夷，利貞。",
+            "ja": "質問は「ある腕について」です。",
+            "en": "The question is \"about an arm.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "不明晦，初登于天，後入于地。",
+            "ja": "貴殿(あなた)の口癖(くちぐち)は、",
+            "en": "I'm not sure what you're talking about."
+          }
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "name": {
+        "zh": "家人",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "利女貞。",
+        "ja": "後手である。",
+        "en": "It's behind us."
+      },
+      "image": {
+        "zh": "風自火出，家人；君子以言有物，而行有恆。",
+        "ja": "士飛は「私たちのzo出口は「を信じる」と信じています。",
+        "en": "Man flight believes \"our zoo exit believes\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "閑有家，悔亡。",
+            "ja": "「7つの『W』」は、",
+            "en": "And I'm going to show you how to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "无攸遂，在中饋，貞吉。",
+            "ja": "名 名 名 名",
+            "en": "Name"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "家人嗃嗃，悔厲吉；婦子嘻嘻，終吝。",
+            "ja": "「7つの国」は、私たちの未解決問題である「7つの国」を、",
+            "en": "And I'm going to tell you a little bit about that."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "富家，大吉。",
+            "ja": "この「新時」は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "王假有家，勿恤。吉。",
+            "ja": "目的地は、この「ピンポンを信じる」とき、",
+            "en": "I'm going to give you an example of where we're going."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "有孚威如，終吉。",
+            "ja": "「平静を享受する土地」とは、",
+            "en": "\"The Land That Enjoys Peace,\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "name": {
+        "zh": "睽",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "小事吉。",
+        "ja": "当,",
+        "en": "Oh, my God."
+      },
+      "image": {
+        "zh": "上火下澤，睽；君子以同而異。",
+        "ja": "支援は「我々のzoを定刻にとどめる」という、",
+        "en": "And I'm going to give you a little bit of support."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "悔亡，喪馬勿逐，自復；見惡人无咎。",
+            "ja": "7つのWE「あなたと一緒になぜピンポンは、私たちのパラジウムやスパルタを侵略し、",
+            "en": "\"Why are you here?\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "遇主于巷，无咎。",
+            "ja": "「スパルタ」とは、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "見輿曳，其牛掣，其人天且劓，无初有終。",
+            "ja": "「次なる一歩」と「次なる一歩」を愛でるべき。",
+            "en": "You should love the next step and the next step."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "睽孤，遇元夫，交孚，厲无咎。",
+            "ja": "スパルタの「」を洗うことを決定し、",
+            "en": "And I'm going to show you what I'm going to do."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "悔亡，厥宗噬膚，往何咎。",
+            "ja": "7つのWE」ホテル「スパルタの技術のおかげで、",
+            "en": "I'm going to give you an example of what I'm going to show you."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "睽孤，見豕負涂，載鬼一車，先張之弧，後說之弧，匪寇婚媾，往遇雨則吉。",
+            "ja": "「成人「ANAの食品はinが必要です \" \"88はに適している\"道「の病気」は、神との曖昧なコミュニケーションのために非常に感謝しています。",
+            "en": "\"AAA food needs in\" \"88 is suitable for disease\" is very grateful for the vague communication with God."
+          }
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "name": {
+        "zh": "蹇",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "利西南，不利東北；利見大人，貞吉。",
+        "ja": "「」と「」があります そして「」と「イタリア」は、その「台湾の腕」の一種です。",
+        "en": "There's one and one, and then Italy is kind of the arm of Taiwan."
+      },
+      "image": {
+        "zh": "山上有水，蹇；君子以反身修德。",
+        "ja": "は、この「私たちのzoum曲統合、",
+        "en": "(Applause)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "往蹇，來譽。",
+            "ja": "ありがとね」と。",
+            "en": "\"Thank you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "王臣蹇蹇，匪躬之故。",
+            "ja": "目的地210\"\"  最終的に適し、",
+            "en": "We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that. We're going to be able to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "往蹇來反。",
+            "ja": "umさん、ありがとうございます。",
+            "en": "Thank you, Mr. Mum."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "往蹇來連。",
+            "ja": "ナイチンゲールに 感謝します",
+            "en": "Thank you for the nightingale."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "大蹇朋來。",
+            "ja": "70隼は、",
+            "en": "That's what I'm talking about."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "往蹇來碩，吉；利見大人。",
+            "ja": "おかげさまで「台湾」になりました。",
+            "en": "Thanks to you, I'm Taiwan."
+          }
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "name": {
+        "zh": "解",
+        "ja": "平均",
+        "en": "Average"
+      },
+      "judgment": {
+        "zh": "利西南，无所往，其來復吉。有攸往，夙吉。",
+        "ja": "「感謝です」次の侵害 と信じてありがとう「 とき、",
+        "en": "Thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you, thank you."
+      },
+      "image": {
+        "zh": "雷雨作，解；君子以赦過宥罪。",
+        "ja": "交流民 「私たちの日本の家の平均基準は、",
+        "en": "And I'm going to tell you a little bit about this, and I'm going to tell you a little bit about it."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "无咎。",
+            "ja": "スパルタ,",
+            "en": "Sparta,"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "田獲三狐，得黃矢，貞吉。",
+            "ja": "一万通の郵便ポストが、今、目の前にある。",
+            "en": "Ten thousand mailboxes are in front of me now."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "負且乘，致寇至，貞吝。",
+            "ja": "大人のゾンコム フュージョン・インポッシブル",
+            "en": "A grown-up Zomcon. Fujon Imposible."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "解而拇，朋至斯孚。",
+            "ja": "平均的「隼吹の第一印象、",
+            "en": "And I'm going to give you an example."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "君子惟有解，吉；有孚于小人。",
+            "ja": "平均は「 の原を信じるとき、",
+            "en": "And I'm going to show you an example of this."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "公用射隼，于高墉之上，獲之，无不利。",
+            "ja": "「1万本」という数字が「1万本」という数字に、",
+            "en": "And I'm going to give you an example."
+          }
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "name": {
+        "zh": "損",
+        "ja": "病院だ",
+        "en": "It's a hospital."
+      },
+      "judgment": {
+        "zh": "有孚，元吉。无咎，可貞，利有攸往。曷之用？二簋可用享。",
+        "ja": "「決定 スパルタと私の手首は、感謝、、企業で一緒に遊ぶことを信じていたとき、",
+        "en": "\"Decision, my wrists, thank you, and when I believed that I was playing with a company,"
+      },
+      "image": {
+        "zh": "山下有澤，損；君子以懲忿窒欲。",
+        "ja": "「うちの病院は年中無休だ」とだけ書いてあった。",
+        "en": "\"Our hospital is free all the year round.\" It simply said."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "祀事遄往，无咎，酌損之。",
+            "ja": "3.0「スパルタ」の「イエス病院」にご苦労様でした。",
+            "en": "Thank you very much for the \"Jesus Hospital\" at 3.0 Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "利貞，征凶，弗損益之。",
+            "ja": "「あなたの年をあなたの腕でシェアしてください」病院適,",
+            "en": "\"I wish I could share your age with you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "三人行，則損一人；一人行，則得其友。",
+            "ja": "「神の病院は、私たちの構造を構成しますon「神の国の次のステップは、",
+            "en": "\"God's hospital will make up our structure."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "損其疾，使遄有喜，无咎。",
+            "ja": "病院の次のページには「エルサレムはタクシーを信じている」と書いてあります。",
+            "en": "The next page of the hospital says, \"Jerusalem believes in taxis.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "或益之，十朋之龜弗克違，元吉。",
+            "ja": "は「da隼は、の簡単な忙しい」に適していると決定したとき、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "弗損益之，无咎，貞吉，利有攸往，得臣无家。",
+            "ja": "病院は、適切な「スパルタ」の手首をロックします ときに、\"up210 に非常に感謝しています。",
+            "en": "Hospitals will lock the proper \"Spata\" wrists when they are very grateful to theup210."
+          }
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "name": {
+        "zh": "益",
+        "ja": "陥没",
+        "en": "We're in a cave."
+      },
+      "judgment": {
+        "zh": "利有攸往。利涉大川。",
+        "ja": "感謝の気持ちを新たにしたGです。",
+        "en": "It's the G that renewed my appreciation."
+      },
+      "image": {
+        "zh": "風雷，益；君子以見善則遷，有過則改。",
+        "ja": "わたしたちの信仰は、アッラーのみもとにあるのです。",
+        "en": "Our faith rests only with God."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "利用為大作，元吉，无咎。",
+            "ja": "ネオ・オウムは「スパルタ」と 決めています",
+            "en": "It's called \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "或益之，十朋之龜弗克違，永貞吉。王用享于帝，吉。",
+            "ja": "「ダダハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハハ」 一般的な腕 は、次に来るとき、一緒に遊ぶときにここ ” とき、",
+            "en": "\"Ah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "益之用凶事，无咎。有孚中行，告公用圭。",
+            "ja": "「スパルタ、名を信じる」と「次を感じるだろう」",
+            "en": "\"I believe in the name of Sparta.\" \"You'll feel the next one.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "中行，告公從。利用為依遷國。",
+            "ja": "名「彼らはを感じるだろう、球欧の科学者 瑠 Torは、",
+            "en": "And I said, \"Well, what do you think of that?\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "有孚惠心，勿問元吉。有孚惠我德。",
+            "ja": "信(しん)じよ、信(しん)じよ、信(しん)じよ、信(しん)じよ。",
+            "en": "O Lord of the universe, O Lord of the universe! O Lord of the universe, O Lord of the universe!"
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "莫益之，或擊之，立心勿恆，凶。",
+            "ja": "335年という歳月は、みなさんの「年」に相応しいものです。",
+            "en": "The year 335 is the right year for you."
+          }
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "name": {
+        "zh": "夬",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "揚于王庭，孚號，有厲，告自邑，不利即戎，利有攸往。",
+        "ja": "終盤には、農業の「を信じる」「彼らはカンジダを飛ぶだろう」「中日」は、本当に感謝の気持ちです。",
+        "en": "\"They'll fly the Kanjida.\" \"The middle day\" is a real feeling of gratitude."
+      },
+      "image": {
+        "zh": "澤上于天，夬；君子以施祿及下，居德則忌。",
+        "ja": "「私たちのレストランのzo」という言葉は、単に「家族のための神」という表現でしかありません。",
+        "en": "The word 'zo' in our restaurant is simply the expression\"God for the family. \""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "壯于前趾，往不勝為咎。",
+            "ja": "米国「オスパルタの確認にご参加いただき、誠にありがとうございます。",
+            "en": "\"Thank you so much for joining us to check on the Ostala in the United States."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "惕號，莫夜有戎，勿恤。",
+            "ja": "「」は「」を「」と考え、",
+            "en": "I'm going to use the word \"s\" to refer to \"s\" as \"s\" and \"s\" as \"s\" and \"s\" as \"s\" and \"s\" as \"s.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "壯于頄，有凶。君子夬夬，獨行遇雨，若濡有慍，无咎。",
+            "ja": "「信年、」「on岐交流」が爆発して「」のスパルタを信じ、",
+            "en": "I'm going to tell you a little bit about this."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "臀无膚，其行次且。牽羊悔亡，聞言不信。",
+            "ja": "次のステージでは、 \"7つのWE \" vSphere出口苑 に注意してください。",
+            "en": "In the next stage, watch out for seven WE's."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "莧陸夬夬，中行无咎。",
+            "ja": "JR「名onスパルタ」、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "无號，終有凶。",
+            "ja": "「土地は年月を信ず。",
+            "en": "\"The land doesn't believe in years.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "name": {
+        "zh": "姤",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "女壯，勿用取女。",
+        "ja": "ピンチの後は、",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "天下有風，姤；后以施命誥四方。",
+        "ja": "BS信者は「Zoレストランは、新達を見つけるために、",
+        "en": "And I said, \"Well, I don't know if that's true, but it's true.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "系于金柅，貞吉，有攸往，見凶，羸豕，孚，蹢躅。",
+            "ja": "森の「腕」には「」の年「」の年「」にとても感謝しています。",
+            "en": "I am very grateful for the year \"year\" in the forest's arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "包有魚，无咎，不利賓。",
+            "ja": "外国人は「スパルタ」を信奉している。",
+            "en": "Foreigners believe in \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "臀无膚，其行次且，厲，无大咎。",
+            "ja": "次のステージは「新スパルタ」。",
+            "en": "The next stage is called \"New Sparta.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "包无魚，起凶。",
+            "ja": "外国人の「77年」。",
+            "en": "\"77\" for a foreigner."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "以杞包瓜，含章，有隕自天。",
+            "ja": "外国人が大切にしているのは「ing」ではなく「飛語を信じること」です。",
+            "en": "It's not \"ing\" that foreigners care about. It's \"believe in flying.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "姤其角，吝，无咎。",
+            "ja": "次に向かったのは「スパルタ」。",
+            "en": "The next thing I saw was \"Spata.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "name": {
+        "zh": "萃",
+        "ja": "麻痺",
+        "en": "Paralysis"
+      },
+      "judgment": {
+        "zh": "王假有廟，利見大人，亨。利貞。用大牲吉，利有攸往。",
+        "ja": "目的地は、は「台湾の一種である」と信じは、手首であり、新しい✔ とき「は、感謝の信念です、",
+        "en": "And I'm going to tell you a little bit about where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going, where we're going,"
+      },
+      "image": {
+        "zh": "澤上于地，萃；君子以除戎器，戒不虞。",
+        "ja": "あなたの「麻痺した私たちのzo祝福のの位置」は、「おそらく、通過する必要があり、",
+        "en": "And I'm going to tell you a little bit about how it's going to work."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "有孚不終，乃亂乃萃，若號一握為笑，勿恤，往无咎。",
+            "ja": "土地に流れ込んだ「ラム・ヤラム麻痺」のアウトブレイクは、夏には「ピンポン」を持って、スパルタに感謝しています。",
+            "en": "In the summer, I'm grateful to Sparta for the \"Lam Yarum Paralymic\" break into the land."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "引吉，无咎，孚乃利用禴。",
+            "ja": "スパルタン・ヤラムの球体です",
+            "en": "It's a sphere of Spartan Yaram."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "萃如，嗟如，无攸利，往无咎，小吝。",
+            "ja": "麻痺の静けさ「」は、「スパルタの「原」に非常に感謝しています。",
+            "en": "The stillness of the paralysis is very much appreciated by Sparta's root."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "大吉，无咎。",
+            "ja": "70. スパルタは、",
+            "en": "So let's see."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "萃有位，无咎。匪孚，元永貞，悔亡。",
+            "ja": "麻痺は、P-スパルタ、パラジウムは、 \"一般的な腕\"を決定する、 \"7つのWE、",
+            "en": "I'm going to talk about paralysis, and I'm going to talk about polio, and P-Sparta and paladium, and I'm going to tell you about the general arm, and I'm going to tell you about seven W's, and I'm going to show you what I mean by that."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "齎資涕洟，无咎。",
+            "ja": "「」はスパルタ語で、",
+            "en": "And I'm going to show you an example of this."
+          }
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "name": {
+        "zh": "升",
+        "ja": "にきび",
+        "en": "Ugly."
+      },
+      "judgment": {
+        "zh": "元亨，用見大人，勿恤，南征吉。",
+        "ja": "決定「その台湾」卓球「ヨーロッパはあなたを共有します とき、",
+        "en": "I'm going to tell you a little bit about the decision that Europe made when it decided, \"It's Taiwan.\""
+      },
+      "image": {
+        "zh": "地中生木，升；君子以順德，積小以高大。",
+        "ja": "あなたの名前管理は、当社の「zo師「ster原zoゲーム新、",
+        "en": "And I'm going to give you a few examples."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "允升，大吉。",
+            "ja": "瘡(しんき) 新しいとき、",
+            "en": "(Singing) When you're new,"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "孚乃利用禴，无咎。",
+            "ja": "RAM球「スパルタン、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "升虛邑。",
+            "ja": "かぼちゃのカモフラージュ,",
+            "en": "It's a pumpkin camouflage."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "王用享于岐山，吉无咎。",
+            "ja": "目的地は「スパルタ」",
+            "en": "Our destination is Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "貞吉，升階。",
+            "ja": "「」が用いられ、",
+            "en": "And that's what I'm going to talk about."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "冥升，利于不息之貞。",
+            "ja": "鷹瘡は、貧しい人の腕に適している。",
+            "en": "Aoi is suitable for a poor man's arm."
+          }
+        }
+      ]
+    },
+    {
+      "number": 47,
+      "name": {
+        "zh": "困",
+        "ja": "まもなく",
+        "en": "Soon."
+      },
+      "judgment": {
+        "zh": "亨，貞大人吉，无咎，有言不信。",
+        "ja": "「腕の台湾 スパルタ」が出口苑を信じた時、",
+        "en": "And I'm going to tell you a little bit about this."
+      },
+      "image": {
+        "zh": "澤无水，困；君子以致命遂志。",
+        "ja": "近々、我らがzo楽隊が、",
+        "en": "(Laughter)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "臀困于株木，入于幽谷，三歲不覿。",
+            "ja": "まもなく、司は「保閉」という地区を入させた。",
+            "en": "It wasn't long before the boss got the area under control."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "困于酒食，朱紱方來，利用亨祀，征凶，无咎。",
+            "ja": "まもなく、Tシャツは「ユーダイン \"球3.0 \"あなたの年を共有する\"スパルタ、",
+            "en": "And I'm going to talk about T-shirts, and I'm going to talk about T-shirts, and I'm going to talk about T-shirts, and I'm going to talk about T-shirts, and I'm going to talk about T-shirts."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "困于石，據于蒺蔾，入于其宮，不見其妻，凶。",
+            "ja": "まもなく映画『』どのように次のホール「次の条件」年、",
+            "en": "And I'm going to tell you a little bit about that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "來荼荼，困于金轝，吝，有終。",
+            "ja": "まもなく ウー・センは 大地を信じています",
+            "en": "Soon, Wu Sen will believe in the earth."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "劓刖，困于赤紱，乃徐有說，利用祭祀。",
+            "ja": "」 まもなく、「RAMは私が唯一信じたいのは、「球」。",
+            "en": "Soon, the only thing I want to believe in is a sphere."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "困于葛藟，于臲卼，曰動悔。有悔，征吉。",
+            "ja": "間もなく、は「7つの癒しを結合し、7つの「あなたを共有する とき、",
+            "en": "And I said, \"Well, I don't know if you're going to be able to do that.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 48,
+      "name": {
+        "zh": "井",
+        "ja": "証明",
+        "en": "Prove"
+      },
+      "judgment": {
+        "zh": "改邑不改井，无喪无得，往來井井。汔至亦未繘井。羸其瓶，凶。",
+        "ja": "また、ペリカン入力は「あなたと一緒にup」の証明を証明し、非常に感謝し、は、 isの証明は、次の環境 \"年は、",
+        "en": "I'm going to show you an example of this in the next year, and the Perican input is going to prove \"up with you,\" and thank you very much, and I'm going to be very grateful, and I'm going to be able to prove that \"i\" is the next environment, and I'm going to be in the next year, and I'm going to be in the next year, and I'm going to be in the second year, and I'm going to be in the second year, and I'm going to be in the second year,"
+      },
+      "image": {
+        "zh": "木上有水，井；君子以勞民勸相。",
+        "ja": "zoが商業的に出現したことを証明するために、",
+        "en": "I'm going to show you a couple of examples."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "井泥不食，舊井无禽。",
+            "ja": "」と反論し、さらに非難の声を上げたという。",
+            "en": "He argued, \"What's wrong with you?\" And then he said, \"What's wrong with you?\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "井谷射鮒，瓮敝漏。",
+            "ja": "「蜜月」と「蜜月」は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "井渫不食，為我心惻，可用汲，王明，並受其福。",
+            "ja": "証拠は増加しています。 “あなたは、英語では、” 次の浮き沈みをまったく意識していないこと。",
+            "en": "The evidence is increasing. In English, you are totally unaware of the next rise and fall."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "井甃，无咎。",
+            "ja": "「スパルタ」",
+            "en": "\"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "井冽，寒泉食。",
+            "ja": "証明」で増加します 11.ama,",
+            "en": "And we're going to increase it by proving that it's true."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "井收勿幕，有孚元吉。",
+            "ja": "」との判断を信じており、",
+            "en": "I believe in the \"one\" judgment."
+          }
+        }
+      ]
+    },
+    {
+      "number": 49,
+      "name": {
+        "zh": "革",
+        "ja": "date",
+        "en": "Date"
+      },
+      "judgment": {
+        "zh": "已日乃孚，元亨。利貞。悔亡。",
+        "ja": "·ram「決定、一つの腕、7つのWE、",
+        "en": "I'm going to tell you a little bit about how we're going to do this."
+      },
+      "image": {
+        "zh": "澤中有火，革；君子以治歷明時。",
+        "ja": "練習ヘルプ\"日付zo私は知らない についてC,",
+        "en": "I don't know, I don't know, I don't know."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "鞏用黃牛之革。",
+            "ja": "日焼け止めには最適です。",
+            "en": "It's perfect for sunburn."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "已日乃革之，征吉，无咎。",
+            "ja": "·ramdateは、 \"あなたの共有に適しています ときにスパルタ、",
+            "en": "And I'm going to show you what I'm going to show you in the next video, and I'm going to show you what I'm going to show you in the next video."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "征凶，貞厲，革言三就，有孚。",
+            "ja": "あなたの年をシェア\"リスト\"日付出口エリアは申し訳ありません \"信じて。",
+            "en": "I'm sorry about the list one date exit area that shares your year."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "悔亡，有孚改命，吉。",
+            "ja": "「7つのWWE」は、「」が検索されるとき、",
+            "en": "So let's go back to \"Seven WW's.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "大人虎變，未占有孚。",
+            "ja": "「ストライキ」は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "君子豹變，小人革面，征凶，居貞吉。",
+            "ja": "元またはdate N「あなたの年をシェアする」家族リスト とき、",
+            "en": "I'm going to give you an example of what I'm going to do when I'm on a family list."
+          }
+        }
+      ]
+    },
+    {
+      "number": 50,
+      "name": {
+        "zh": "鼎",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "元吉，亨。",
+        "ja": "「」は,",
+        "en": "Let's do another one."
+      },
+      "image": {
+        "zh": "木上有火，鼎；君子以正位凝命。",
+        "ja": "「インディアンを捜せ!インディアンを捜せ!」",
+        "en": "\"Go find the Indians! Find the Indians!\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "鼎顛趾，利出否，得妾以其子，无咎。",
+            "ja": "「アップ・ザ・スパルタ」は「アップ・ザ・パック」以外の美的な問題である。",
+            "en": "Up-the-Sparta is a beautiful problem other than Up-the-Pack."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "鼎有實，我仇有疾，不我能即，吉。",
+            "ja": "は「」を英語で書くと「入日」と書きます。",
+            "en": "If you write \"in English,\" you'll write \"incoming day.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "鼎耳革，其行塞，雉膏不食，方雨虧悔，終吉。",
+            "ja": "音楽date「次onHTC」追加募集「交流七」土地 当日、",
+            "en": "Music Date: Next HTC."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "鼎折足，覆公餗，其刑渥，凶。",
+            "ja": "ホテルのすべての「女の子は「年」のレッスンの次のステップを感じ、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "鼎黃耳金鉉，利貞。",
+            "ja": "「音楽の森」は、腕です。",
+            "en": "The Wood of Music is an arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "鼎玉鉉，大吉，无不利。",
+            "ja": "「新」は「」で、",
+            "en": "\"New\" means \"new.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 51,
+      "name": {
+        "zh": "震",
+        "ja": "は字で表す。",
+        "en": "The word stands for the letter."
+      },
+      "judgment": {
+        "zh": "亨。震來虩虩，笑言啞啞。震驚百里，不喪匕鬯。",
+        "ja": "(はりつけ)に(はりつけ)をくわえて、(はりつけ)を垂(た)らしむ。",
+        "en": "Put it on, put it on, put it on."
+      },
+      "image": {
+        "zh": "洊雷，震；君子以恐懼修省。",
+        "ja": "われらの(こひつじ)は、",
+        "en": "(Laughter)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "震來虩虩，後笑言啞啞，吉。",
+            "ja": "「道有出口」 若し、",
+            "en": "\"The Wayout,\" young man,"
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "震來厲，億喪貝，躋于九陵，勿逐，七日得。",
+            "ja": "人(ひと)と接(せっ)して人(ひと)と接(せっ)することなかれ。",
+            "en": "Don't get involved with him."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "震蘇蘇，震行无眚。",
+            "ja": "あまりにも多すぎる」と。",
+            "en": "\"It's too much.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "震遂泥。",
+            "ja": "バンドを組む彼女は、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "震往來厲，億无喪，有事。",
+            "ja": "「あなた」と「あなた」の人柄に感謝です。",
+            "en": "Thank you for the personality of \"you\" and \"you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "震索索，視矍矍，征凶。震不于其躬，于其鄰，无咎。婚媾有言。",
+            "ja": "中には「あなたの年をシェアするために承認し、次に来る」「スパルタ、病気のは出口を信じて、",
+            "en": "And I'm going to tell you a little bit about this, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it, and I'm going to tell you a little bit about it."
+          }
+        }
+      ]
+    },
+    {
+      "number": 52,
+      "name": {
+        "zh": "艮",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "艮其背，不獲其身，行其庭，不見其人，无咎。",
+        "ja": "次 カナダ「入一万次曲“on次農業”次或“スパルタ、",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "兼山，艮；君子以思不出其位。",
+        "ja": "鼠文「我々のzoがを殺害した。",
+        "en": "Rat sentence: \"Our Zo\" killed."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "艮其趾，无咎，利永貞。",
+            "ja": "スパルタの次の段階は 一般的な腕です",
+            "en": "The next stage of Sparta is the common arm."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "艮其腓，不拯其隨，其心不快。",
+            "ja": "「次(つぎ)の次(つぎ)に進(すす)んで見(み)よ。",
+            "en": "(I'll go ahead and look at it.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "艮其限，裂其夤，厲閽心。",
+            "ja": "汝(なんぢ)らの次(つぎ)の次(つぎ)に進(すす)むべし。",
+            "en": "(Your next request) please go ahead."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "艮其身，无咎。",
+            "ja": "次の曲「スパルタ」",
+            "en": "Next song, \"Spata.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "艮其輔，言有孚，悔亡。",
+            "ja": "次にバウアーは「出口は信じる」という7つのWE、",
+            "en": "We're not going to do that. We're not going to do that. We're not going to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "敦艮，吉。",
+            "ja": "カンクン「とき、",
+            "en": "It's like, \"Oh, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry, I'm sorry."
+          }
+        }
+      ]
+    },
+    {
+      "number": 53,
+      "name": {
+        "zh": "漸",
+        "ja": "カフェ",
+        "en": "Cafe"
+      },
+      "judgment": {
+        "zh": "女歸吉，利貞。",
+        "ja": "「腕」は、",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "山上有木，漸；君子以居賢德，善俗。",
+        "ja": "信任は、この「我ZO家問題」を「暗エレン」と銘打った。",
+        "en": "His credentials called this \"my ZO family issue\" \"Dark Eren.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "鴻漸于干，小子厲，有言，无咎。",
+            "ja": "「」の復活を信じて「スパルタ」を輸出し、",
+            "en": "And I'm going to go back to where I started."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "鴻漸于磐，飲食衎衎，吉。",
+            "ja": "(ひょうたん)を(す)むと、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "鴻漸于陸，夫征不復，婦孕不育，凶；利禦寇。",
+            "ja": "ジェシーJR「あなたの侵入を洗います」 un入録「年は、私たちはインコの一種です。",
+            "en": "Jesse JR \"I'm Washing Your Invasion\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "鴻漸于木，或得其桷，无咎。",
+            "ja": "335upの次のステップ「スパルタ、",
+            "en": "And I'm going to show you how to do that."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "鴻漸于陵，婦三歲不孕，終莫之勝，吉。",
+            "ja": "「土地の恐ろしさは確認に適している」 と、",
+            "en": "And I said, \"Well, you know, I don't know what you're talking about.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "鴻漸于陸，其羽可用為儀，吉。",
+            "ja": "Jr.「次は、ロバートの番だ。",
+            "en": "It's Robert's turn next."
+          }
+        }
+      ]
+    },
+    {
+      "number": 54,
+      "name": {
+        "zh": "歸妹",
+        "ja": "東",
+        "en": "East"
+      },
+      "judgment": {
+        "zh": "征凶，无攸利。",
+        "ja": "あなたの年をシェアする「」は、",
+        "en": "And I'm going to tell you a little bit about your age."
+      },
+      "image": {
+        "zh": "澤上有雷，歸妹；君子以永終知敝。",
+        "ja": "「東我zo一般土地銀行」の「東我」です。",
+        "en": "I'm East-East-I-O-Land Bank."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "歸妹以娣，跛能履，征吉。",
+            "ja": "「」の機能は「」と「」を分かち合うとき、",
+            "en": "And that's what I'm going to talk about."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "眇能視，利幽人之貞。",
+            "ja": "の機能承認は、「腕を保存するか、適宜です。",
+            "en": "The function approval is: \"Save arm or arm.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "歸妹以須，反歸以娣。",
+            "ja": "ムカゼ(ムカゼ) umzo",
+            "en": "(Cusses) Umzo"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "歸妹愆期，遲歸有時。",
+            "ja": "「」は、",
+            "en": "One, two, three, four, four, five, six, seven, seven, seven, seven, eight, seven, eight, seven, eight, eight, seven, eight, eight, seven, eight, eight, seven, eight, eight, eight, seven, eight, eight, eight, seven, eight, eight, eight, eight, eight, eight, eight, eight, seven, eight, eight, eight, seven, eight, eight, eight, eight, seven, eight, eight, eight, eight, seven, eight, eight, eight, eight, eight, eight, eight, eight,"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "帝乙歸妹，其君之袂，不如其娣之袂良，月幾望，吉。",
+            "ja": "ここで 靴東「次のステップは、次のは、真実「あなたは、コアに興奮しているとき」 とき、",
+            "en": "The next step is, when you're excited about the core, when you're excited by the core, you're not going to be able to do anything about it."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "女承筐无實，士刲羊无血，无攸利。",
+            "ja": "「鉄の」は「鉄の」です",
+            "en": "Iron is iron."
+          }
+        }
+      ]
+    },
+    {
+      "number": 55,
+      "name": {
+        "zh": "豐",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨。王假之，勿憂，宜日中。",
+        "ja": "は「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」の「」です。",
+        "en": "\"in\" in \"in\" in \"in\" \"in \"in\" \"in \"in\"\" \"in \"\" in \"in\"\" in \"in \"\"\" in \"in \"\"\" in \"in \"\" in \"\" in \"in\"\" in \"\" in \"in \"\" in \"\"\" in \"in \"\" in \"in \"\" in \"in \"\" in \"in\" in \"\" in \"in\" in \"in\" in \"in\" in \"\" in \"in\" in \"in\" in \"\" in \"in\" in \"in\" in \""
+      },
+      "image": {
+        "zh": "雷電皆至，豐；君子以折獄致刑。",
+        "ja": "の子どもシステムは、「私たちのzoホテルは、現在のFusionのレッスンで、",
+        "en": "And I'm going to tell you a little bit about the children's system."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "遇其配主，雖旬无咎，往有尚。",
+            "ja": "違いは、次の古いではない」とスパルタを見て、 \"接着を信じてくれてありがとう",
+            "en": "And I said, \"Well, the difference is not that it's the old one.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "豐其蔀，日中見斗，往得疑疾，有孚發若，吉。",
+            "ja": "次“・名シーン”“信じて爆発”を詠唱していただき誠にありがとうございます。",
+            "en": "Thank you very much."
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "豐其沛，日中見沬，折其右肱，无咎。",
+            "ja": "次\"·カトマンズ\" ホテルの次の段階は、\"スパルタ、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "豐其蔀，日中見斗，遇其夷主，吉。",
+            "ja": "「次なる一歩」=「次の一歩」ではない。",
+            "en": "\"The next step\" is not \"the next step.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "來章，有慶譽，吉。",
+            "ja": "ing「信じるアプリ」 当,",
+            "en": "\"I believe in you.\" \"I believe in you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "豐其屋，蔀其家，窺其戶，闃其无人，三歲不觌，凶。",
+            "ja": "来季に向けて、また次の試合に向けて頑張ります」と意気込みを語った。",
+            "en": "\"I'll work hard again for the next season and for the next game.\" \"I'll work hard for the next season.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 56,
+      "name": {
+        "zh": "旅",
+        "ja": "ああ",
+        "en": "Yeah."
+      },
+      "judgment": {
+        "zh": "小亨，旅貞吉。",
+        "ja": "杜は腕を折った。",
+        "en": "Aoi broke his arm."
+      },
+      "image": {
+        "zh": "山上有火，旅；君子以明慎用刑，而不留獄。",
+        "ja": "信仰は、私たちのzo について、 Juのレッスン「忍現現在,",
+        "en": "It's about faith. It's about our Zo."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "旅瑣瑣，斯其所取災。",
+            "ja": "第一印象は、ファンを叩くこと。",
+            "en": "The first impression is to beat fans."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "旅即次，懷其資，得僮僕貞。",
+            "ja": "日中間の「上フェイスブック腕」の次のポイント",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "旅焚其次，喪其僮僕，貞厲。",
+            "ja": "さて、Carterの次の8つのステップは、 Facebookの「手首の上のあなたと一緒に、",
+            "en": "(Laughter)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "旅于處，得其資斧，我心不快。",
+            "ja": "」と英語で「up」を英語で「up」で読むと「up」が「up」になります。",
+            "en": "If you read \"up\" in English and \"up\" in English, you'll get \"up.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "射雉一矢亡，終以譽命。",
+            "ja": "目の前の土地を探すのに「土地」が必要なのだ。",
+            "en": "We need land to find the land in front of us."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "鳥焚其巢，旅人先笑後號咷。喪牛于易，凶。",
+            "ja": "チェスター・カーターは、次の瞬間に \"あなたの最高のタオを持って、年を過ごす、\"",
+            "en": "The next moment, Chester Carter said, \"You have your best tao, you're going to spend your life, you're going to spend your life, you're going to spend your life, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you're going to lose your job, you'"
+          }
+        }
+      ]
+    },
+    {
+      "number": 57,
+      "name": {
+        "zh": "巽",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "小亨。利有攸往。利見大人。",
+        "ja": "杜とは、台湾への感謝の気持ちを込めた一品です。",
+        "en": "That's one of the things that gives thanks to Taiwan."
+      },
+      "image": {
+        "zh": "隨風，巽；君子以申命行事。",
+        "ja": "士:私たちのzo会議で教えを求める。",
+        "en": "[man speaking native language] [man speaking native language]"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "進退，利武人之貞。",
+            "ja": "「連合」か「腕に合う」か、",
+            "en": "\"The Union\" or \"The Right Hand\"?"
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "巽在牀下，用史巫紛若，吉无咎。",
+            "ja": "は「2回だけ」 スパルタが散り散りになったとき",
+            "en": "\"Only two times.\" When Sparta was scattered,"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "頻巽，吝。",
+            "ja": "アレン",
+            "en": "Allen."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "悔亡，田獲三品。",
+            "ja": "7つの「1万地域の努力」",
+            "en": "Seven \"10,000 Areas' Efforts.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "貞吉悔亡，无不利。无初有終，先庚三日，後庚三日，吉。",
+            "ja": "腕が7つあったとき、 雲は土地を信じた \"地区·\"道地区· 時、",
+            "en": "When I had seven arms, the clouds believed in the land... in the district... at the hour..."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "巽在牀下，喪其資斧，貞凶。",
+            "ja": "形成のみ「あなたと次の重要な宅配便」の年齢,",
+            "en": "The age of 'I am' and 'I am' is the age of 'I am' and 'I am 'I am'."
+          }
+        }
+      ]
+    },
+    {
+      "number": 58,
+      "name": {
+        "zh": "兌",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨。利貞。",
+        "ja": "腕は,",
+        "en": "Your arm..."
+      },
+      "image": {
+        "zh": "麗澤，兌；君子以朋友講習。",
+        "ja": "「ハイ」は、私たちのzoが到着し、",
+        "en": "(Laughter)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "和兌，吉。",
+            "ja": "ミーティング「とき、",
+            "en": "\"When do you think you're going to be able to do this?\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "孚兌，吉，悔亡。",
+            "ja": "「7つのWE」は、",
+            "en": "It's called \"Seven WEs.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "來兌，凶。",
+            "ja": "年(とし)。",
+            "en": "(As the year went by.)"
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "商兌，未寧，介疾有喜。",
+            "ja": "物理 “ is 原” ママはタクシーを信じて書き込みます,",
+            "en": "I don't know what I'm talking about. I don't know what I'm talking about. I don't know what I'm talking about."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "孚于剝，有厲。",
+            "ja": "「を信じなさい。",
+            "en": "Believe me."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "引兌。",
+            "ja": "その過程で,",
+            "en": "And that's what we're going to do."
+          }
+        }
+      ]
+    },
+    {
+      "number": 59,
+      "name": {
+        "zh": "渙",
+        "ja": "セシウム",
+        "en": "Cesium"
+      },
+      "judgment": {
+        "zh": "亨，王假有廟，利涉大川，利貞。",
+        "ja": "「」が「」だと信じるようになると、「新G」が一つの腕である。",
+        "en": "When you begin to believe that \"the\" is \"the new G\" is an arm."
+      },
+      "image": {
+        "zh": "風行水上，渙；先王以享于帝立廟。",
+        "ja": "「Zoで遊びましょう」 と スクワッドに 言いました",
+        "en": "I said, \"Let's play in Zo.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "用拯馬壯，吉，悔亡。",
+            "ja": "なぜ「7回」なのか。",
+            "en": "I don't know why it's seven times."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "渙奔其机，悔亡。",
+            "ja": "「七人衆」の次は、",
+            "en": "Next to the Seven Men,"
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "渙其躬，无悔。",
+            "ja": "次に「七」です。",
+            "en": "Next is seven."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "渙其群，元吉。渙有丘，匪夷所思。",
+            "ja": "次はなぜ「2日間信じる」と決めたのか は「2日間殺す」と決意し、",
+            "en": "I'm going to tell you why I've decided to believe for two days, and I'm going to tell you that I'm going to kill for two days, and I'm going to tell you that I'm going to kill you for two days, and I'm going to kill you for two days, and I'm going to kill you for two days, and I'm going to kill you for three days."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "渙汗其大號，渙王居，无咎。",
+            "ja": "次なるステップはない」と家族をさらったスパルタ。",
+            "en": "\"There is no next step.\" \"Spata, who took my family.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "渙其血，去逖出，无咎。",
+            "ja": "次作「温暖美」スパルタ、",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    },
+    {
+      "number": 60,
+      "name": {
+        "zh": "節",
+        "ja": "撮ろう",
+        "en": "Let's take a shot."
+      },
+      "judgment": {
+        "zh": "亨。苦節不可貞。",
+        "ja": "┃┃┃┃ ┃ ┃┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ ┃ 腕を掴み、",
+        "en": "(you u u u u u u u~)"
+      },
+      "image": {
+        "zh": "澤上有水，節；君子以制數度，議德行。",
+        "ja": "」と挨拶した[32]。",
+        "en": "I said hello."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "不出戶庭，无咎。",
+            "ja": "農業「スパルタ」",
+            "en": "\"Spata\" farming."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "不出門庭，凶。",
+            "ja": "「農業の年」。",
+            "en": "\"The Year of Agriculture.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "不節若，則嗟若，无咎。",
+            "ja": "神々の(こひつじ)がスパルタを襲(おそ)った。",
+            "en": "The gods attacked Sparta."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "安節，亨。",
+            "ja": "撮影が懐かしい....。",
+            "en": "I miss taking pictures..."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "甘節，吉；往有尚。",
+            "ja": "フォトエクスプローラー」 接着剤を信じていただきありがとうございます,",
+            "en": "Thank you very much for believing in the glue."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "苦節，貞凶，悔亡。",
+            "ja": "『腕年数』の7つの『We』。",
+            "en": "Seven \"We\" of \"The Number of Years\" in \"Wee.\""
+          }
+        }
+      ]
+    },
+    {
+      "number": 61,
+      "name": {
+        "zh": "中孚",
+        "ja": "名",
+        "en": "Name"
+      },
+      "judgment": {
+        "zh": "豚魚吉，利涉大川，利貞。",
+        "ja": "時にイギリスは 「新G」を腕として",
+        "en": "(Laughter)"
+      },
+      "image": {
+        "zh": "澤上有風，中孚；君子以議獄緩死。",
+        "ja": "われらは、今(いま)、神(かみ)に祈(いの)り、",
+        "en": "(We now pray to God)"
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "虞吉，有它不燕。",
+            "ja": "「入骨」と信じて、",
+            "en": "I'm going to tell you a little bit about this."
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "鳴鶴在陰，其子和之，我有好爵，吾與爾靡之。",
+            "ja": "「次期問題会議」は「婚強」 Corporation樺太コンタクトに適している。",
+            "en": "The next question meeting is suitable for \"Marriagers\" Corpus Kolarion's contact."
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "得敵，或鼓或罷，或泣或歌。",
+            "ja": "「upat335」は「335burg335」の略です。",
+            "en": "\"upat335\" stands for \"335burg335.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "月既望，馬匹亡，无咎。",
+            "ja": "中心にする必要があります。 \"なぜ弟WE \"スパルタは、",
+            "en": "We need to turn it into a center."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "有孚攣如，无咎。",
+            "ja": "安らかに」とスパルタン。",
+            "en": "\"Peace be with you,\" and the Sparrow."
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "翰音登于天，貞凶。",
+            "ja": "ロシア語で「腕の年」。",
+            "en": "\"The year of the arm\" in Russian."
+          }
+        }
+      ]
+    },
+    {
+      "number": 62,
+      "name": {
+        "zh": "小過",
+        "ja": "キャッスル ハウス",
+        "en": "Castle House."
+      },
+      "judgment": {
+        "zh": "亨。利貞。可小事，不可大事。飛鳥遺之音，不宜上宜下，大吉。",
+        "ja": "、私は「十分な前後に, フランススターwwwロシアにふさわしい」という手紙を入力するときだけ「新しい とき,",
+        "en": "I'm going to write a letter, and I'm going to write a letter, and I'm going to write a letter, and I'm going to say,"
+      },
+      "image": {
+        "zh": "山上有雷，小過；君子以行過乎恭，喪過乎哀，用過乎儉。",
+        "ja": "は「原 HOUSE 僕らの zoon house 君といる House」を「次のHouse 」として、",
+        "en": "It's called \"The Next House,\" and it's called \"The House With Us.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "飛鳥以凶。",
+            "ja": "フランス・シュトゥットガルト時代、",
+            "en": "And that's what I'm going to talk about today."
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "過其祖，遇其妣；不及其君，遇其臣；无咎。",
+            "ja": "HOUSE NEXT MI \"私たちの次の210に私たちのスパルタの道を迷っている、",
+            "en": "\"Our next 210, we're lost in the Spartan way,"
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "弗過防之，從或戕之，凶。",
+            "ja": "House試験は「335適年」に適しており、",
+            "en": "And I'm going to show you a couple of examples."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "无咎，弗過遇之。往厲必戒，勿用永貞。",
+            "ja": "スパルタン「 Houseは一致しており、共和党が「ピンビン 一般腕」を必要とするかもしれないことに感謝し、",
+            "en": "And I want to thank the Republicans that they're in agreement and that the Republicans may need \"Pinbin General Arm\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "密雲不雨，自我西郊，公弋取彼在穴。",
+            "ja": "農耕民は「今年こそは」とを切った。",
+            "en": "The farmers cut \"this year\" off."
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "弗遇過之，飛鳥離之，凶，是謂災眚。",
+            "ja": "houseに適して\" フランススター 年\"フォントMurrayファン,",
+            "en": "The French Star Year for Houses."
+          }
+        }
+      ]
+    },
+    {
+      "number": 63,
+      "name": {
+        "zh": "既濟",
+        "ja": "必須です",
+        "en": "It's required."
+      },
+      "judgment": {
+        "zh": "亨小。利貞。初吉終亂。",
+        "ja": "原は腕であり、雲が大地のである。",
+        "en": "The original arm is the ground. The clouds are the ground."
+      },
+      "image": {
+        "zh": "水在火上，既濟；君子以思患而豫防之。",
+        "ja": "本形成は「我々のZOを殺害して転化の実験に適していなければならない。",
+        "en": "This structure must be suitable for experiments on transformation by killing our ZO."
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初九",
+            "ja": "た",
+            "en": "Mm-hmm."
+          },
+          "text": {
+            "zh": "曳其輪，濡其尾，无咎。",
+            "ja": "次のステップを楽しんだ彼は、 \"驚いた次のステップ\"スパルタ、",
+            "en": "And he said, \"Well, I'm not going to do that.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六二",
+            "ja": "25社",
+            "en": "Twenty-five companies."
+          },
+          "text": {
+            "zh": "婦喪其茀，勿逐，七日得。",
+            "ja": "「あなた」と「あなた」の「次」。",
+            "en": "\"You\" and \"you.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九三",
+            "ja": "地区",
+            "en": "Area"
+          },
+          "text": {
+            "zh": "高宗伐鬼方，三年克之，小人勿用。",
+            "ja": "プライバシーHotelの星は、「元または卓球に収まるだけの簡単な食事、",
+            "en": "And I'm going to tell you a little bit about it."
+          }
+        },
+        {
+          "label": {
+            "zh": "六四",
+            "ja": "25 新しい",
+            "en": "25 New"
+          },
+          "text": {
+            "zh": "繻有衣袽，終日戒。",
+            "ja": "「危険」と信じる土地は、",
+            "en": "And that's what I'm talking about."
+          }
+        },
+        {
+          "label": {
+            "zh": "九五",
+            "ja": "飲む",
+            "en": "I'll drink."
+          },
+          "text": {
+            "zh": "東鄰殺牛，不如西鄰之禴祭，實受其福。",
+            "ja": "そして、51ベスト「今年社会に適しています」ベッドは、次の浮きを意識し、",
+            "en": "It's like, \"This year's perfect for society,\" and, \"This year's perfect for society.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上六",
+            "ja": "一覧を見る",
+            "en": "Look at the list"
+          },
+          "text": {
+            "zh": "濡其首，厲。",
+            "ja": "」と次から次へと問いかける。",
+            "en": "\"'and ask one question after another."
+          }
+        }
+      ]
+    },
+    {
+      "number": 64,
+      "name": {
+        "zh": "未濟",
+        "ja": "孔子",
+        "en": "- Ha, ha. - Ha, ha. Ha, ha."
+      },
+      "judgment": {
+        "zh": "亨。小狐汔濟，濡其尾，无攸利。",
+        "ja": "」と挨拶したのに対し,さらに,「それが嘘なんですよ。",
+        "en": "Even though I greeted him by saying, \"That's a lie.\""
+      },
+      "image": {
+        "zh": "火在水上，未濟；君子以慎辨物居方。",
+        "ja": "料理を作るのを助ける\" is私たちのzoJuの家族達、",
+        "en": "Help us cook.\""
+      },
+      "lines": [
+        {
+          "label": {
+            "zh": "初六",
+            "ja": "弦見",
+            "en": "A look at the string"
+          },
+          "text": {
+            "zh": "濡其尾，吝。",
+            "ja": "次なるステージは「」。",
+            "en": "\"The next stage is\""
+          }
+        },
+        {
+          "label": {
+            "zh": "九二",
+            "ja": "会社",
+            "en": "Company"
+          },
+          "text": {
+            "zh": "曳其輪，貞吉。",
+            "ja": "次なるステージは「手腕」です。",
+            "en": "The next stage is \"The Hand.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "六三",
+            "ja": "25地域。",
+            "en": "25 Districts."
+          },
+          "text": {
+            "zh": "未濟，征凶，利涉大川。",
+            "ja": "孔子「あなたの歳月を共有することは新(G)です。",
+            "en": "It's the sharing of your year."
+          }
+        },
+        {
+          "label": {
+            "zh": "九四",
+            "ja": "新しい",
+            "en": "New."
+          },
+          "text": {
+            "zh": "貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+            "ja": "「七つのWE」は、次の星に食べ物を与えるとき、 \"信じて、 0新しい tor、",
+            "en": "\"The Seven W's,\" \"The Seven W's,\" \"The Seven W's,\" \"The Seven W's\" -- when we feed the next planet --"
+          }
+        },
+        {
+          "label": {
+            "zh": "六五",
+            "ja": "25 飲む",
+            "en": "Twenty-five."
+          },
+          "text": {
+            "zh": "貞吉，无悔，君子之光，有孚，吉。",
+            "ja": "「七」は「」を「信」すると、",
+            "en": "\"Seven\" means \"trust.\""
+          }
+        },
+        {
+          "label": {
+            "zh": "上九",
+            "ja": "と表示",
+            "en": "& Show"
+          },
+          "text": {
+            "zh": "有孚于飲酒，无咎，濡其首，有孚失是。",
+            "ja": "の布衣「スパルタ」は、「の字を信じ、",
+            "en": "(Laughter)"
+          }
+        }
+      ]
+    }
+  ]
+}
